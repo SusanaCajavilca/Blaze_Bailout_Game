@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2744216597715365445}
   - component: {fileID: 7984284427039213041}
   m_Layer: 0
-  m_Name: Survivor4
+  m_Name: Survivor4Idle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

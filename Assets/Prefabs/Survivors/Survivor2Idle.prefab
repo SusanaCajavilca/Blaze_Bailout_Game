@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7191187463687670906}
   - component: {fileID: 527740864109550802}
   m_Layer: 0
-  m_Name: Survivor2
+  m_Name: Survivor2Idle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
