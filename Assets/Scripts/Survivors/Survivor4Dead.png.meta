@@ -1,46 +1,58 @@
 fileFormatVersion: 2
-guid: a54e6bf278fb9334fa46b7df21ac9075
+guid: feffe19d7a9b55d41b60b7e641da3f18
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2355445100443480667
-    second: Survivor3Dead_0
+      213: 2649847697073447219
+    second: Dead_0
   - first:
-      213: -3776040099393698241
-    second: Survivor3Dead_1
+      213: -8293461521501190705
+    second: Dead_1
   - first:
-      213: -5695243578551366823
-    second: Survivor3Dead_2
+      213: -1631342717326862633
+    second: Dead_2
   - first:
-      213: 6634609568395961916
-    second: Survivor3Dead_3
+      213: -3927913518680497933
+    second: Dead_3
   - first:
-      213: -3043475080986213997
-    second: Survivor3Dead_4
+      213: -1057675302478342458
+    second: Dead_4
   - first:
-      213: 4614699961086867622
-    second: Survivor3Dead_5
+      213: -7954960911384535938
+    second: Dead_5
   - first:
-      213: 9129510042848061226
-    second: Survivor3Dead_6
+      213: -1451345828014226549
+    second: Dead_6
   - first:
-      213: -8714646590111686673
-    second: Survivor3Dead_7
+      213: -2214552090018719568
+    second: Dead_7
   - first:
-      213: 2559893247994743466
-    second: Survivor3Dead_8
+      213: -8629073497498026496
+    second: Dead_8
   - first:
-      213: -2872991034973973251
-    second: Survivor3Dead_9
+      213: 7690500479702966033
+    second: Dead_9
   - first:
-      213: -2253389823705726201
-    second: Survivor3Dead_10
+      213: 1563200991656865400
+    second: Dead_10
   - first:
-      213: -656742541755556213
-    second: Survivor3Dead_11
+      213: 8237937431785053145
+    second: Dead_11
   - first:
-      213: -2433570936656372869
-    second: Survivor3Dead_12
+      213: 2997290389361952000
+    second: Dead_12
+  - first:
+      213: 4942476526513585314
+    second: Dead_13
+  - first:
+      213: 2881778980199032837
+    second: Dead_14
+  - first:
+      213: 5058045045001801558
+    second: Dead_15
+  - first:
+      213: 4040790378147729158
+    second: Dead_16
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -136,13 +148,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Survivor3Dead_0
+      name: Dead_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 53
-        height: 71
+        x: 38
+        y: 61
+        width: 39
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b523ed3d6d830b020800000000000000
-      internalID: 2355445100443480667
+      spriteID: 33123f4e07626c420800000000000000
+      internalID: 2649847697073447219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor3Dead_1
+      name: Dead_1
       rect:
         serializedVersion: 2
-        x: 165
-        y: 0
-        width: 53
-        height: 71
+        x: 166
+        y: 61
+        width: 39
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,195 +185,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f360202398fc89bc0800000000000000
-      internalID: -3776040099393698241
+      spriteID: fc50d84dfa4b7ec80800000000000000
+      internalID: -8293461521501190705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor3Dead_2
+      name: Dead_2
       rect:
         serializedVersion: 2
-        x: 296
-        y: 23
-        width: 55
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95b0f17d32e66f0b0800000000000000
-      internalID: -5695243578551366823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_3
-      rect:
-        serializedVersion: 2
-        x: 424
-        y: 33
-        width: 50
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3626a3304ed21c50800000000000000
-      internalID: 6634609568395961916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_4
-      rect:
-        serializedVersion: 2
-        x: 555
-        y: 55
-        width: 34
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3914013f98763c5d0800000000000000
-      internalID: -3043475080986213997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_5
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 18
-        width: 130
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a877953a25ba0040800000000000000
-      internalID: 4614699961086867622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_6
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 18
-        width: 50
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a27e155830982be70800000000000000
-      internalID: 9129510042848061226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_7
-      rect:
-        serializedVersion: 2
-        x: 561
-        y: 46
-        width: 28
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fefd255391b5f0780800000000000000
-      internalID: -8714646590111686673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_8
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 37
-        width: 19
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aaac5ad9851968320800000000000000
-      internalID: 2559893247994743466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_9
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 0
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df49e7d10e51128d0800000000000000
-      internalID: -2872991034973973251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor3Dead_10
-      rect:
-        serializedVersion: 2
-        x: 424
-        y: 0
-        width: 41
+        x: 290
+        y: 47
+        width: 60
         height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -371,20 +207,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7034a81f4e95ab0e0800000000000000
-      internalID: -2253389823705726201
+      spriteID: 7d6dfca117e4c59e0800000000000000
+      internalID: -1631342717326862633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor3Dead_11
+      name: Dead_3
       rect:
         serializedVersion: 2
-        x: 425
-        y: 18
-        width: 33
-        height: 16
+        x: 292
+        y: 65
+        width: 41
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,18 +229,172 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8ed5c94328c2e6f0800000000000000
-      internalID: -656742541755556213
+      spriteID: 3f0289a377f3d79c0800000000000000
+      internalID: -3927913518680497933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor3Dead_12
+      name: Dead_4
       rect:
         serializedVersion: 2
-        x: 552
-        y: 0
+        x: 420
+        y: 41
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6131c8ae16251f0800000000000000
+      internalID: -1057675302478342458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c9ec2c23d4a9190800000000000000
+      internalID: -7954960911384535938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8387f2b8a8cbdbe0800000000000000
+      internalID: -1451345828014226549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d5d97b945441e0800000000000000
+      internalID: -2214552090018719568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 39
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e74e07f5f5f3880800000000000000
+      internalID: -8629073497498026496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 28
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9aa5b0752aba60800000000000000
+      internalID: 7690500479702966033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 30
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eee3c050b91b510800000000000000
+      internalID: 1563200991656865400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 13
         width: 36
         height: 19
       alignment: 0
@@ -415,8 +405,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7bd1e070283a3ed0800000000000000
-      internalID: -2433570936656372869
+      spriteID: 9db117f9278035270800000000000000
+      internalID: 8237937431785053145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0058c929ab3889920800000000000000
+      internalID: 2997290389361952000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 13
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7c89e634379440800000000000000
+      internalID: 4942476526513585314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50863f3d6b22ef720800000000000000
+      internalID: 2881778980199032837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 21
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc1457b29c13640800000000000000
+      internalID: 5058045045001801558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fcf4d9075c31830800000000000000
+      internalID: 4040790378147729158
       vertices: []
       indices: 
       edges: []
@@ -435,19 +535,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Survivor3Dead_0: 2355445100443480667
-      Survivor3Dead_1: -3776040099393698241
-      Survivor3Dead_10: -2253389823705726201
-      Survivor3Dead_11: -656742541755556213
-      Survivor3Dead_12: -2433570936656372869
-      Survivor3Dead_2: -5695243578551366823
-      Survivor3Dead_3: 6634609568395961916
-      Survivor3Dead_4: -3043475080986213997
-      Survivor3Dead_5: 4614699961086867622
-      Survivor3Dead_6: 9129510042848061226
-      Survivor3Dead_7: -8714646590111686673
-      Survivor3Dead_8: 2559893247994743466
-      Survivor3Dead_9: -2872991034973973251
+      Dead_0: 2649847697073447219
+      Dead_1: -8293461521501190705
+      Dead_10: 1563200991656865400
+      Dead_11: 8237937431785053145
+      Dead_12: 2997290389361952000
+      Dead_13: 4942476526513585314
+      Dead_14: 2881778980199032837
+      Dead_15: 5058045045001801558
+      Dead_16: 4040790378147729158
+      Dead_2: -1631342717326862633
+      Dead_3: -3927913518680497933
+      Dead_4: -1057675302478342458
+      Dead_5: -7954960911384535938
+      Dead_6: -1451345828014226549
+      Dead_7: -2214552090018719568
+      Dead_8: -8629073497498026496
+      Dead_9: 7690500479702966033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

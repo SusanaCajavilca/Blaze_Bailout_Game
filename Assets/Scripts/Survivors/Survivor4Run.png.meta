@@ -1,25 +1,22 @@
 fileFormatVersion: 2
-guid: 611f4593f4fee4e41b6cdb9636735238
+guid: 7048567fef282724884fa2c058136dc8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4675724108413162071
-    second: FemaleJump_0
+      213: -1452006611389655819
+    second: Survivor4Run_0
   - first:
-      213: 7931566002502956754
-    second: FemaleJump_1
+      213: -1132737080683817168
+    second: Survivor4Run_1
   - first:
-      213: -7565467782410085354
-    second: FemaleJump_2
+      213: -1949010039018544946
+    second: Survivor4Run_2
   - first:
-      213: -7144096879347580453
-    second: FemaleJump_3
+      213: -3891616282210348584
+    second: Survivor4Run_3
   - first:
-      213: -4884652491631913615
-    second: FemaleJump_4
-  - first:
-      213: 2564523334155851901
-    second: FemaleJump_5
+      213: -1481464639425060823
+    second: Survivor4Run_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,56 +112,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FemaleJump_0
+      name: Survivor4Run_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 54
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9adad4a42bd7c1fb0800000000000000
-      internalID: -4675724108413162071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FemaleJump_1
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 0
-        width: 54
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d6f0cb8145921e60800000000000000
-      internalID: 7931566002502956754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FemaleJump_2
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 18
-        width: 54
+        x: 31
+        y: 7
+        width: 58
         height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -174,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61cd8cda22f020790800000000000000
-      internalID: -7565467782410085354
+      spriteID: 5f4d9941eaf69dbe0800000000000000
+      internalID: -1452006611389655819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FemaleJump_3
+      name: Survivor4Run_1
       rect:
         serializedVersion: 2
-        x: 421
-        y: 19
-        width: 54
-        height: 71
+        x: 158
+        y: 7
+        width: 59
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd1c2814db11bdc90800000000000000
-      internalID: -7144096879347580453
+      spriteID: 0379de960a5b740f0800000000000000
+      internalID: -1132737080683817168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FemaleJump_4
+      name: Survivor4Run_2
       rect:
         serializedVersion: 2
-        x: 549
-        y: 0
-        width: 54
-        height: 79
+        x: 286
+        y: 7
+        width: 59
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1759d09507a363cb0800000000000000
-      internalID: -4884652491631913615
+      spriteID: ec021a022b9b3f4e0800000000000000
+      internalID: -1949010039018544946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FemaleJump_5
+      name: Survivor4Run_3
       rect:
         serializedVersion: 2
-        x: 676
-        y: 0
-        width: 54
-        height: 76
+        x: 414
+        y: 7
+        width: 59
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +193,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d785f8e8264079320800000000000000
-      internalID: 2564523334155851901
+      spriteID: 8d1d9b82c933ef9c0800000000000000
+      internalID: -3891616282210348584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor4Run_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92064c372c7c07be0800000000000000
+      internalID: -1481464639425060823
       vertices: []
       indices: 
       edges: []
@@ -260,12 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FemaleJump_0: -4675724108413162071
-      FemaleJump_1: 7931566002502956754
-      FemaleJump_2: -7565467782410085354
-      FemaleJump_3: -7144096879347580453
-      FemaleJump_4: -4884652491631913615
-      FemaleJump_5: 2564523334155851901
+      Survivor4Run_0: -1452006611389655819
+      Survivor4Run_1: -1132737080683817168
+      Survivor4Run_2: -1949010039018544946
+      Survivor4Run_3: -3891616282210348584
+      Survivor4Run_4: -1481464639425060823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

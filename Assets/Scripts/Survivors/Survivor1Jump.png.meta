@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 8b18eada4acdc124da4aa4d10c64d222
+guid: 611f4593f4fee4e41b6cdb9636735238
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8465391674434690294
-    second: Survivor2Jump_0
+      213: -4675724108413162071
+    second: FemaleJump_0
   - first:
-      213: 5228285414683125661
-    second: Survivor2Jump_1
+      213: 7931566002502956754
+    second: FemaleJump_1
   - first:
-      213: -6078615553086809361
-    second: Survivor2Jump_2
+      213: -7565467782410085354
+    second: FemaleJump_2
   - first:
-      213: 6511100017401617110
-    second: Survivor2Jump_3
+      213: -7144096879347580453
+    second: FemaleJump_3
   - first:
-      213: -3882931994923919566
-    second: Survivor2Jump_4
+      213: -4884652491631913615
+    second: FemaleJump_4
   - first:
-      213: 2521850024702742835
-    second: Survivor2Jump_5
-  - first:
-      213: 4360953229456879022
-    second: Survivor2Jump_6
-  - first:
-      213: 7637269372384362474
-    second: Survivor2Jump_7
+      213: 2564523334155851901
+    second: FemaleJump_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,34 +115,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Survivor2Jump_0
+      name: FemaleJump_0
       rect:
         serializedVersion: 2
-        x: 44
+        x: 37
         y: 0
-        width: 34
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6fc9a3750ec1b7570800000000000000
-      internalID: 8465391674434690294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor2Jump_1
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 0
-        width: 34
+        width: 54
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -158,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d972b8e42e99e8840800000000000000
-      internalID: 5228285414683125661
+      spriteID: 9adad4a42bd7c1fb0800000000000000
+      internalID: -4675724108413162071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor2Jump_2
+      name: FemaleJump_1
       rect:
         serializedVersion: 2
-        x: 300
+        x: 165
         y: 0
-        width: 34
-        height: 68
+        width: 54
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fea98104c5b64aba0800000000000000
-      internalID: -6078615553086809361
+      spriteID: 2d6f0cb8145921e60800000000000000
+      internalID: 7931566002502956754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor2Jump_3
+      name: FemaleJump_2
       rect:
         serializedVersion: 2
-        x: 424
-        y: 14
-        width: 37
-        height: 73
+        x: 293
+        y: 18
+        width: 54
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,19 +174,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6da5342f7f21c5a50800000000000000
-      internalID: 6511100017401617110
+      spriteID: 61cd8cda22f020790800000000000000
+      internalID: -7565467782410085354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Survivor2Jump_4
+      name: FemaleJump_3
       rect:
         serializedVersion: 2
-        x: 556
-        y: 13
-        width: 36
+        x: 421
+        y: 19
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c2814db11bdc90800000000000000
+      internalID: -7144096879347580453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleJump_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1759d09507a363cb0800000000000000
+      internalID: -4884652491631913615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleJump_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 54
         height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -224,74 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2379f8b5ced0d1ac0800000000000000
-      internalID: -3882931994923919566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor2Jump_5
-      rect:
-        serializedVersion: 2
-        x: 684
-        y: 0
-        width: 34
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33197337c396ff220800000000000000
-      internalID: 2521850024702742835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor2Jump_6
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 0
-        width: 31
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eadaedb5bd7358c30800000000000000
-      internalID: 4360953229456879022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Survivor2Jump_7
-      rect:
-        serializedVersion: 2
-        x: 939
-        y: 0
-        width: 31
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aefb0fab7080df960800000000000000
-      internalID: 7637269372384362474
+      spriteID: d785f8e8264079320800000000000000
+      internalID: 2564523334155851901
       vertices: []
       indices: 
       edges: []
@@ -310,14 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Survivor2Jump_0: 8465391674434690294
-      Survivor2Jump_1: 5228285414683125661
-      Survivor2Jump_2: -6078615553086809361
-      Survivor2Jump_3: 6511100017401617110
-      Survivor2Jump_4: -3882931994923919566
-      Survivor2Jump_5: 2521850024702742835
-      Survivor2Jump_6: 4360953229456879022
-      Survivor2Jump_7: 7637269372384362474
+      FemaleJump_0: -4675724108413162071
+      FemaleJump_1: 7931566002502956754
+      FemaleJump_2: -7565467782410085354
+      FemaleJump_3: -7144096879347580453
+      FemaleJump_4: -4884652491631913615
+      FemaleJump_5: 2564523334155851901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
