@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f8f396ca3d13c0044a0d6260f10a7153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8601512961218512106
+    second: FemaleDead_0
+  - first:
+      213: -6193576508381625977
+    second: FemaleDead_1
+  - first:
+      213: 5908456674807445352
+    second: FemaleDead_2
+  - first:
+      213: -1156029416012406139
+    second: FemaleDead_3
+  - first:
+      213: -8920588781305324422
+    second: FemaleDead_4
+  - first:
+      213: -3458651268026812496
+    second: FemaleDead_5
+  - first:
+      213: -3774282510548613075
+    second: FemaleDead_6
+  - first:
+      213: -8931359344208597473
+    second: FemaleDead_7
+  - first:
+      213: 4858680916384670916
+    second: FemaleDead_8
+  - first:
+      213: 3221049234408543850
+    second: FemaleDead_9
+  - first:
+      213: 2036103969127618938
+    second: FemaleDead_10
+  - first:
+      213: 4796173989439448398
+    second: FemaleDead_11
+  - first:
+      213: -4644468338321435469
+    second: FemaleDead_12
+  - first:
+      213: -106008360124759455
+    second: FemaleDead_13
+  - first:
+      213: 221890488693593809
+    second: FemaleDead_14
+  - first:
+      213: 7754719879100789871
+    second: FemaleDead_15
+  - first:
+      213: -8620728067545663730
+    second: FemaleDead_16
+  - first:
+      213: -276266931990638056
+    second: FemaleDead_17
+  - first:
+      213: 4639567416699922666
+    second: FemaleDead_18
+  - first:
+      213: 1509867931746995438
+    second: FemaleDead_19
+  - first:
+      213: -2222743066770292354
+    second: FemaleDead_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleDead_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae409582776be5770800000000000000
+      internalID: 8601512961218512106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78185b80bfefb0aa0800000000000000
+      internalID: -6193576508381625977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fea89a0e0ff150800000000000000
+      internalID: 5908456674807445352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582adacfe55f4ffe0800000000000000
+      internalID: -1156029416012406139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 50
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c16f644c3b33480800000000000000
+      internalID: -8920588781305324422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7be471ff66000d0800000000000000
+      internalID: -3458651268026812496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 51
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c7ccbd0e0f9bc0800000000000000
+      internalID: -3774282510548613075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 26
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ea41f2fff6d0480800000000000000
+      internalID: -8931359344208597473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e3121d808d6340800000000000000
+      internalID: 4858680916384670916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6617fc763773bc20800000000000000
+      internalID: 3221049234408543850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 11
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795d9da5c1b14c10800000000000000
+      internalID: 2036103969127618938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a18905de6f8240800000000000000
+      internalID: 4796173989439448398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b45dcb57a88b8fb0800000000000000
+      internalID: -4644468338321435469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 12
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ca8745f1678ef0800000000000000
+      internalID: -106008360124759455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d69e9d4930541300800000000000000
+      internalID: 221890488693593809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 0
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64767ec4ac4e9b60800000000000000
+      internalID: 7754719879100789871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0773b44f750d5880800000000000000
+      internalID: -8620728067545663730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d28760b08a2cf0800000000000000
+      internalID: -276266931990638056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae820e7ebfd036040800000000000000
+      internalID: 4639567416699922666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_19
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec888162e024f410800000000000000
+      internalID: 1509867931746995438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleDead_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c13615fa3721e0800000000000000
+      internalID: -2222743066770292354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemaleDead_0: 8601512961218512106
+      FemaleDead_1: -6193576508381625977
+      FemaleDead_10: 2036103969127618938
+      FemaleDead_11: 4796173989439448398
+      FemaleDead_12: -4644468338321435469
+      FemaleDead_13: -106008360124759455
+      FemaleDead_14: 221890488693593809
+      FemaleDead_15: 7754719879100789871
+      FemaleDead_16: -8620728067545663730
+      FemaleDead_17: -276266931990638056
+      FemaleDead_18: 4639567416699922666
+      FemaleDead_19: 1509867931746995438
+      FemaleDead_2: 5908456674807445352
+      FemaleDead_20: -2222743066770292354
+      FemaleDead_3: -1156029416012406139
+      FemaleDead_4: -8920588781305324422
+      FemaleDead_5: -3458651268026812496
+      FemaleDead_6: -3774282510548613075
+      FemaleDead_7: -8931359344208597473
+      FemaleDead_8: 4858680916384670916
+      FemaleDead_9: 3221049234408543850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

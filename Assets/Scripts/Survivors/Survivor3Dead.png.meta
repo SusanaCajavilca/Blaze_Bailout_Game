@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: a54e6bf278fb9334fa46b7df21ac9075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2355445100443480667
+    second: Survivor3Dead_0
+  - first:
+      213: -3776040099393698241
+    second: Survivor3Dead_1
+  - first:
+      213: -5695243578551366823
+    second: Survivor3Dead_2
+  - first:
+      213: 6634609568395961916
+    second: Survivor3Dead_3
+  - first:
+      213: -3043475080986213997
+    second: Survivor3Dead_4
+  - first:
+      213: 4614699961086867622
+    second: Survivor3Dead_5
+  - first:
+      213: 9129510042848061226
+    second: Survivor3Dead_6
+  - first:
+      213: -8714646590111686673
+    second: Survivor3Dead_7
+  - first:
+      213: 2559893247994743466
+    second: Survivor3Dead_8
+  - first:
+      213: -2872991034973973251
+    second: Survivor3Dead_9
+  - first:
+      213: -2253389823705726201
+    second: Survivor3Dead_10
+  - first:
+      213: -656742541755556213
+    second: Survivor3Dead_11
+  - first:
+      213: -2433570936656372869
+    second: Survivor3Dead_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Survivor3Dead_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b523ed3d6d830b020800000000000000
+      internalID: 2355445100443480667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f360202398fc89bc0800000000000000
+      internalID: -3776040099393698241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 23
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b0f17d32e66f0b0800000000000000
+      internalID: -5695243578551366823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 33
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3626a3304ed21c50800000000000000
+      internalID: 6634609568395961916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 55
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3914013f98763c5d0800000000000000
+      internalID: -3043475080986213997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 18
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a877953a25ba0040800000000000000
+      internalID: 4614699961086867622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 18
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e155830982be70800000000000000
+      internalID: 9129510042848061226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 46
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd255391b5f0780800000000000000
+      internalID: -8714646590111686673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 37
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac5ad9851968320800000000000000
+      internalID: 2559893247994743466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49e7d10e51128d0800000000000000
+      internalID: -2872991034973973251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7034a81f4e95ab0e0800000000000000
+      internalID: -2253389823705726201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed5c94328c2e6f0800000000000000
+      internalID: -656742541755556213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor3Dead_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd1e070283a3ed0800000000000000
+      internalID: -2433570936656372869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Survivor3Dead_0: 2355445100443480667
+      Survivor3Dead_1: -3776040099393698241
+      Survivor3Dead_10: -2253389823705726201
+      Survivor3Dead_11: -656742541755556213
+      Survivor3Dead_12: -2433570936656372869
+      Survivor3Dead_2: -5695243578551366823
+      Survivor3Dead_3: 6634609568395961916
+      Survivor3Dead_4: -3043475080986213997
+      Survivor3Dead_5: 4614699961086867622
+      Survivor3Dead_6: 9129510042848061226
+      Survivor3Dead_7: -8714646590111686673
+      Survivor3Dead_8: 2559893247994743466
+      Survivor3Dead_9: -2872991034973973251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

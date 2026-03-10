@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: ed4c3f00e30f5894ab1bc99f115c7676
+guid: 698994255d34d3a4f99e4233ebe21327
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3231735356579741161
-    second: screeny0_0
+      213: -6529874851345265110
+    second: Survivor4Idle_0
+  - first:
+      213: -5105644171485224617
+    second: Survivor4Idle_1
+  - first:
+      213: -3056373752574047
+    second: Survivor4Idle_2
+  - first:
+      213: 4037267623701878096
+    second: Survivor4Idle_3
+  - first:
+      213: -224667334630334970
+    second: Survivor4Idle_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: screeny0_0
+      name: Survivor4Idle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1008
-        height: 720
+        x: 40
+        y: 3
+        width: 38
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ed71013f2e69dc20800000000000000
-      internalID: 3231735356579741161
+      spriteID: a2e0fc16b693165a0800000000000000
+      internalID: -6529874851345265110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor4Idle_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75164194dab1529b0800000000000000
+      internalID: -5105644171485224617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor4Idle_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4d288e3425fff0800000000000000
+      internalID: -3056373752574047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor4Idle_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0559fed6381470830800000000000000
+      internalID: 4037267623701878096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Survivor4Idle_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e99bedf32d1ecf0800000000000000
+      internalID: -224667334630334970
       vertices: []
       indices: 
       edges: []
@@ -135,7 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      screeny0_0: 3231735356579741161
+      Survivor4Idle_0: -6529874851345265110
+      Survivor4Idle_1: -5105644171485224617
+      Survivor4Idle_2: -3056373752574047
+      Survivor4Idle_3: 4037267623701878096
+      Survivor4Idle_4: -224667334630334970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
