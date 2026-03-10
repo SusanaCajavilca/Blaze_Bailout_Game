@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 28672a2ba39cf194b8cd78c6450face1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2144688736466698323
+    second: SpeedWhirlPoolYellow _0
+  - first:
+      213: 9106236462551596571
+    second: SpeedWhirlPoolYellow _1
+  - first:
+      213: -102855353085266126
+    second: SpeedWhirlPoolYellow _2
+  - first:
+      213: 3275072704370104016
+    second: SpeedWhirlPoolYellow _3
+  - first:
+      213: -4672476928019008520
+    second: SpeedWhirlPoolYellow _4
+  - first:
+      213: -2612689374827278889
+    second: SpeedWhirlPoolYellow _5
+  - first:
+      213: -1738205940837202883
+    second: SpeedWhirlPoolYellow _6
+  - first:
+      213: -8215029090867028477
+    second: SpeedWhirlPoolYellow _7
+  - first:
+      213: 4390071584880400175
+    second: SpeedWhirlPoolYellow _8
+  - first:
+      213: -876535727644244625
+    second: SpeedWhirlPoolYellow _9
+  - first:
+      213: -2174665364687606571
+    second: SpeedWhirlPoolYellow _10
+  - first:
+      213: -8459077440300886533
+    second: SpeedWhirlPoolYellow _11
+  - first:
+      213: 7753377180473213534
+    second: SpeedWhirlPoolYellow _12
+  - first:
+      213: -1169430987470311745
+    second: SpeedWhirlPoolYellow _13
+  - first:
+      213: 4422237640090593470
+    second: SpeedWhirlPoolYellow _14
+  - first:
+      213: -4021178601185015613
+    second: SpeedWhirlPoolYellow _15
+  - first:
+      213: 8370478786889619521
+    second: SpeedWhirlPoolYellow _16
+  - first:
+      213: -3851516772206019458
+    second: SpeedWhirlPoolYellow _17
+  - first:
+      213: -1400685655414534025
+    second: SpeedWhirlPoolYellow _18
+  - first:
+      213: -6311103291679411771
+    second: SpeedWhirlPoolYellow _19
+  - first:
+      213: 8974077111002445991
+    second: SpeedWhirlPoolYellow _20
+  - first:
+      213: -4070109084372572285
+    second: SpeedWhirlPoolYellow _21
+  - first:
+      213: 518282352618418417
+    second: SpeedWhirlPoolYellow _22
+  - first:
+      213: 2901265388890607254
+    second: SpeedWhirlPoolYellow _23
+  - first:
+      213: 6505541655190891095
+    second: SpeedWhirlPoolYellow _24
+  - first:
+      213: -1624581662873926579
+    second: SpeedWhirlPoolYellow _25
+  - first:
+      213: 165691919995555724
+    second: SpeedWhirlPoolYellow _26
+  - first:
+      213: 727330814168712860
+    second: SpeedWhirlPoolYellow _27
+  - first:
+      213: -6002546794423651746
+    second: SpeedWhirlPoolYellow _28
+  - first:
+      213: -8706449494719412566
+    second: SpeedWhirlPoolYellow _29
+  - first:
+      213: 80882044013817298
+    second: SpeedWhirlPoolYellow _30
+  - first:
+      213: 7208753067662308133
+    second: SpeedWhirlPoolYellow _31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1160
+        width: 188
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daffe1d05f88c32e0800000000000000
+      internalID: -2144688736466698323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1161
+        width: 187
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef817d0d9df5e70800000000000000
+      internalID: 9106236462551596571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1159
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237fa10f995929ef0800000000000000
+      internalID: -102855353085266126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1160
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6de85c545637d20800000000000000
+      internalID: 3275072704370104016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1160
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f7346df6082fb0800000000000000
+      internalID: -4672476928019008520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 970
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd8bf03bdcddbbd0800000000000000
+      internalID: -2612689374827278889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 967
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ccedf7e6a0e7e0800000000000000
+      internalID: -1738205940837202883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 969
+        width: 180
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ede53219a5efd80800000000000000
+      internalID: -8215029090867028477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 971
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27155bc8daacec30800000000000000
+      internalID: 4390071584880400175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 968
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6583d8566be5d3f0800000000000000
+      internalID: -876535727644244625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 769
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc23786f5902d1e0800000000000000
+      internalID: -2174665364687606571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 770
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5585bd2e15b9a80800000000000000
+      internalID: -8459077440300886533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c9bb6777899b60800000000000000
+      internalID: 7753377180473213534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 770
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe6f7a76b855cfe0800000000000000
+      internalID: -1169430987470311745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 769
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb826f124b1fe5d30800000000000000
+      internalID: 4422237640090593470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 575
+        width: 189
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c807f90e57e138c0800000000000000
+      internalID: -4021178601185015613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 577
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489f74ab1ae92470800000000000000
+      internalID: 8370478786889619521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 578
+        width: 190
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7332e6e9ac8ac0800000000000000
+      internalID: -3851516772206019458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 581
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770180b41d3cf8ce0800000000000000
+      internalID: -1400685655414534025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _19
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 583
+        width: 188
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c176ae6ef47a68a0800000000000000
+      internalID: -6311103291679411771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 390
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b344f5935a8c70800000000000000
+      internalID: 8974077111002445991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 390
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387e1e42a511487c0800000000000000
+      internalID: -4070109084372572285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 389
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0bc21cd0f413700800000000000000
+      internalID: 518282352618418417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _23
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 391
+        width: 185
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec5f7ef7d534820800000000000000
+      internalID: 2901265388890607254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 388
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae825eaa3584a50800000000000000
+      internalID: 6505541655190891095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4449c3c5935479e0800000000000000
+      internalID: -1624581662873926579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fcc716ce7ac4200800000000000000
+      internalID: 165691919995555724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 199
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c8bc958ff71a00800000000000000
+      internalID: 727330814168712860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 194
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f7ba4e7ba2bca0800000000000000
+      internalID: -6002546794423651746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 196
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6ce54305a7c2780800000000000000
+      internalID: -8706449494719412566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dda62e5ac95f1100800000000000000
+      internalID: 80882044013817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedWhirlPoolYellow _31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523f48fa8b2aa0460800000000000000
+      internalID: 7208753067662308133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpeedWhirlPoolYellow _0: -2144688736466698323
+      SpeedWhirlPoolYellow _1: 9106236462551596571
+      SpeedWhirlPoolYellow _10: -2174665364687606571
+      SpeedWhirlPoolYellow _11: -8459077440300886533
+      SpeedWhirlPoolYellow _12: 7753377180473213534
+      SpeedWhirlPoolYellow _13: -1169430987470311745
+      SpeedWhirlPoolYellow _14: 4422237640090593470
+      SpeedWhirlPoolYellow _15: -4021178601185015613
+      SpeedWhirlPoolYellow _16: 8370478786889619521
+      SpeedWhirlPoolYellow _17: -3851516772206019458
+      SpeedWhirlPoolYellow _18: -1400685655414534025
+      SpeedWhirlPoolYellow _19: -6311103291679411771
+      SpeedWhirlPoolYellow _2: -102855353085266126
+      SpeedWhirlPoolYellow _20: 8974077111002445991
+      SpeedWhirlPoolYellow _21: -4070109084372572285
+      SpeedWhirlPoolYellow _22: 518282352618418417
+      SpeedWhirlPoolYellow _23: 2901265388890607254
+      SpeedWhirlPoolYellow _24: 6505541655190891095
+      SpeedWhirlPoolYellow _25: -1624581662873926579
+      SpeedWhirlPoolYellow _26: 165691919995555724
+      SpeedWhirlPoolYellow _27: 727330814168712860
+      SpeedWhirlPoolYellow _28: -6002546794423651746
+      SpeedWhirlPoolYellow _29: -8706449494719412566
+      SpeedWhirlPoolYellow _3: 3275072704370104016
+      SpeedWhirlPoolYellow _30: 80882044013817298
+      SpeedWhirlPoolYellow _31: 7208753067662308133
+      SpeedWhirlPoolYellow _4: -4672476928019008520
+      SpeedWhirlPoolYellow _5: -2612689374827278889
+      SpeedWhirlPoolYellow _6: -1738205940837202883
+      SpeedWhirlPoolYellow _7: -8215029090867028477
+      SpeedWhirlPoolYellow _8: 4390071584880400175
+      SpeedWhirlPoolYellow _9: -876535727644244625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

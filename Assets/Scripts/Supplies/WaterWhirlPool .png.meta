@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 1f967920c9c41e74c8c8dbbb0f15c2bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3629939186504971278
+    second: WaterWhirlPool _0
+  - first:
+      213: 9102807604962293746
+    second: WaterWhirlPool _1
+  - first:
+      213: 3352430937580134304
+    second: WaterWhirlPool _2
+  - first:
+      213: -4228939295910114115
+    second: WaterWhirlPool _3
+  - first:
+      213: 8672185579765908860
+    second: WaterWhirlPool _4
+  - first:
+      213: -4274788376721671268
+    second: WaterWhirlPool _5
+  - first:
+      213: -5203176565800732716
+    second: WaterWhirlPool _6
+  - first:
+      213: 8984122104860870023
+    second: WaterWhirlPool _7
+  - first:
+      213: 3435622357559788757
+    second: WaterWhirlPool _8
+  - first:
+      213: -1322092565194606973
+    second: WaterWhirlPool _9
+  - first:
+      213: 8785770462502636360
+    second: WaterWhirlPool _10
+  - first:
+      213: 7989873591563738270
+    second: WaterWhirlPool _11
+  - first:
+      213: 23018572656109305
+    second: WaterWhirlPool _12
+  - first:
+      213: 7673868814365337560
+    second: WaterWhirlPool _13
+  - first:
+      213: -7316326268478287333
+    second: WaterWhirlPool _14
+  - first:
+      213: -2355645531622660024
+    second: WaterWhirlPool _15
+  - first:
+      213: -210735249547352528
+    second: WaterWhirlPool _16
+  - first:
+      213: 4455923872258784105
+    second: WaterWhirlPool _17
+  - first:
+      213: 7764255486850753006
+    second: WaterWhirlPool _18
+  - first:
+      213: 8807325101866596694
+    second: WaterWhirlPool _19
+  - first:
+      213: -8541990550140757263
+    second: WaterWhirlPool _20
+  - first:
+      213: -5456353838928635275
+    second: WaterWhirlPool _21
+  - first:
+      213: 6830064851542855786
+    second: WaterWhirlPool _22
+  - first:
+      213: -4052844248058571411
+    second: WaterWhirlPool _23
+  - first:
+      213: -3897327881655448590
+    second: WaterWhirlPool _24
+  - first:
+      213: 1429120935347992885
+    second: WaterWhirlPool _25
+  - first:
+      213: -8783130402954146580
+    second: WaterWhirlPool _26
+  - first:
+      213: -2117322294914151549
+    second: WaterWhirlPool _27
+  - first:
+      213: -303553582540569677
+    second: WaterWhirlPool _28
+  - first:
+      213: 3824063737280455956
+    second: WaterWhirlPool _29
+  - first:
+      213: -6813346645078938857
+    second: WaterWhirlPool _30
+  - first:
+      213: 9122746945219918732
+    second: WaterWhirlPool _31
+  - first:
+      213: -5241106870895357001
+    second: WaterWhirlPool _32
+  - first:
+      213: 6288532870169918611
+    second: WaterWhirlPool _33
+  - first:
+      213: -8656596451216329273
+    second: WaterWhirlPool _34
+  - first:
+      213: 4052001616253096683
+    second: WaterWhirlPool _35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterWhirlPool _0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1349
+        width: 187
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0436e73572206230800000000000000
+      internalID: 3629939186504971278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1350
+        width: 191
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f77088b94ba35e70800000000000000
+      internalID: 9102807604962293746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1347
+        width: 188
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5e700d2a368e20800000000000000
+      internalID: 3352430937580134304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1350
+        width: 185
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4692cd1acf45c0800000000000000
+      internalID: -4228939295910114115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1347
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75463c66dac95870800000000000000
+      internalID: 8672185579765908860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1158
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3983ce96eca4c0800000000000000
+      internalID: -4274788376721671268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1159
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77fc32b7a9ac7b0800000000000000
+      internalID: -5203176565800732716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1161
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78587f654730eac70800000000000000
+      internalID: 8984122104860870023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1163
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cdbcd458cdaf20800000000000000
+      internalID: 3435622357559788757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1160
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f36311dbf6ade0800000000000000
+      internalID: -1322092565194606973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 961
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc697cfa35de970800000000000000
+      internalID: 8785770462502636360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 962
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5e6903bbb1ee60800000000000000
+      internalID: 7989873591563738270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f667661547c15000800000000000000
+      internalID: 23018572656109305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 962
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a13d570f0f7a60800000000000000
+      internalID: 7673868814365337560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 961
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121e7ab500377a90800000000000000
+      internalID: -7316326268478287333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 767
+        width: 189
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84825e6aed01f4fd0800000000000000
+      internalID: -2355645531622660024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 769
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036a3153861531df0800000000000000
+      internalID: -210735249547352528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 770
+        width: 190
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bfa20472f96dd30800000000000000
+      internalID: 4455923872258784105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 773
+        width: 187
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1ed1f7a3d20cb60800000000000000
+      internalID: 7764255486850753006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _19
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 775
+        width: 188
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659b3265487e93a70800000000000000
+      internalID: 8807325101866596694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fadd102ad0c47980800000000000000
+      internalID: -8541990550140757263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 582
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ad1dda7132744b0800000000000000
+      internalID: -5456353838928635275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 581
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d7159bc349ce50800000000000000
+      internalID: 6830064851542855786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _23
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 583
+        width: 185
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65db7811a761c7c0800000000000000
+      internalID: -4052844248058571411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 580
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb83b8c0f8e9e9c0800000000000000
+      internalID: -3897327881655448590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539bd7c3be145d310800000000000000
+      internalID: 1429120935347992885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 388
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0cfbfe6d0c1680800000000000000
+      internalID: -8783130402954146580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 391
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b80a04792cd92e0800000000000000
+      internalID: -2117322294914151549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 386
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34f5eff9f89cbf0800000000000000
+      internalID: -303553582540569677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 388
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ed0355bdc11530800000000000000
+      internalID: 3824063737280455956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b687033512271a0800000000000000
+      internalID: -6813346645078938857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bfc9523028a9e70800000000000000
+      internalID: 9122746945219918732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 200
+        width: 188
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b35c6ac119d347b0800000000000000
+      internalID: -5241106870895357001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 201
+        width: 187
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c78dcc35b554750800000000000000
+      internalID: 6288532870169918611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _34
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 196
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5f75964679dd780800000000000000
+      internalID: -8656596451216329273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWhirlPool _35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 187
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21316600a9b3830800000000000000
+      internalID: 4052001616253096683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterWhirlPool _0: 3629939186504971278
+      WaterWhirlPool _1: 9102807604962293746
+      WaterWhirlPool _10: 8785770462502636360
+      WaterWhirlPool _11: 7989873591563738270
+      WaterWhirlPool _12: 23018572656109305
+      WaterWhirlPool _13: 7673868814365337560
+      WaterWhirlPool _14: -7316326268478287333
+      WaterWhirlPool _15: -2355645531622660024
+      WaterWhirlPool _16: -210735249547352528
+      WaterWhirlPool _17: 4455923872258784105
+      WaterWhirlPool _18: 7764255486850753006
+      WaterWhirlPool _19: 8807325101866596694
+      WaterWhirlPool _2: 3352430937580134304
+      WaterWhirlPool _20: -8541990550140757263
+      WaterWhirlPool _21: -5456353838928635275
+      WaterWhirlPool _22: 6830064851542855786
+      WaterWhirlPool _23: -4052844248058571411
+      WaterWhirlPool _24: -3897327881655448590
+      WaterWhirlPool _25: 1429120935347992885
+      WaterWhirlPool _26: -8783130402954146580
+      WaterWhirlPool _27: -2117322294914151549
+      WaterWhirlPool _28: -303553582540569677
+      WaterWhirlPool _29: 3824063737280455956
+      WaterWhirlPool _3: -4228939295910114115
+      WaterWhirlPool _30: -6813346645078938857
+      WaterWhirlPool _31: 9122746945219918732
+      WaterWhirlPool _32: -5241106870895357001
+      WaterWhirlPool _33: 6288532870169918611
+      WaterWhirlPool _34: -8656596451216329273
+      WaterWhirlPool _35: 4052001616253096683
+      WaterWhirlPool _4: 8672185579765908860
+      WaterWhirlPool _5: -4274788376721671268
+      WaterWhirlPool _6: -5203176565800732716
+      WaterWhirlPool _7: 8984122104860870023
+      WaterWhirlPool _8: 3435622357559788757
+      WaterWhirlPool _9: -1322092565194606973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

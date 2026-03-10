@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 65959169c9c390c4c80d0c93bc979574
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5816502473641415130
+    second: fire_circles_50x50px_0
+  - first:
+      213: -6262901718464952334
+    second: fire_circles_50x50px_1
+  - first:
+      213: -8596955067618037382
+    second: fire_circles_50x50px_2
+  - first:
+      213: 8378348597686656541
+    second: fire_circles_50x50px_3
+  - first:
+      213: -7771837504972910257
+    second: fire_circles_50x50px_4
+  - first:
+      213: 140844547310969207
+    second: fire_circles_50x50px_5
+  - first:
+      213: 6189047342150869770
+    second: fire_circles_50x50px_6
+  - first:
+      213: -2292296288646617137
+    second: fire_circles_50x50px_7
+  - first:
+      213: 4823737165959534960
+    second: fire_circles_50x50px_8
+  - first:
+      213: -551759621417814519
+    second: fire_circles_50x50px_9
+  - first:
+      213: -1737720650479662943
+    second: fire_circles_50x50px_10
+  - first:
+      213: -2589377301454433279
+    second: fire_circles_50x50px_11
+  - first:
+      213: 8119934968448582674
+    second: fire_circles_50x50px_12
+  - first:
+      213: 7308051517209659197
+    second: fire_circles_50x50px_13
+  - first:
+      213: -6652559788892625430
+    second: fire_circles_50x50px_14
+  - first:
+      213: 1329472573467911480
+    second: fire_circles_50x50px_15
+  - first:
+      213: 5057301397095128478
+    second: fire_circles_50x50px_16
+  - first:
+      213: -3859004496075771665
+    second: fire_circles_50x50px_17
+  - first:
+      213: -4786906016497520949
+    second: fire_circles_50x50px_18
+  - first:
+      213: 5223250669341598976
+    second: fire_circles_50x50px_19
+  - first:
+      213: 185720728589885591
+    second: fire_circles_50x50px_20
+  - first:
+      213: -5050174539091635014
+    second: fire_circles_50x50px_21
+  - first:
+      213: -8824024899723334715
+    second: fire_circles_50x50px_22
+  - first:
+      213: 7861455962213378390
+    second: fire_circles_50x50px_23
+  - first:
+      213: 8872161640966240679
+    second: fire_circles_50x50px_24
+  - first:
+      213: -9097245100959734262
+    second: fire_circles_50x50px_25
+  - first:
+      213: -9076713657482283147
+    second: fire_circles_50x50px_26
+  - first:
+      213: -7567048593682230227
+    second: fire_circles_50x50px_27
+  - first:
+      213: 6477357110625283102
+    second: fire_circles_50x50px_28
+  - first:
+      213: -3964848961318692605
+    second: fire_circles_50x50px_29
+  - first:
+      213: -8536571051887002330
+    second: fire_circles_50x50px_30
+  - first:
+      213: 8887744599448620230
+    second: fire_circles_50x50px_31
+  - first:
+      213: -2955804492689094137
+    second: fire_circles_50x50px_32
+  - first:
+      213: 3800046455033549529
+    second: fire_circles_50x50px_33
+  - first:
+      213: -4490245274207032430
+    second: fire_circles_50x50px_34
+  - first:
+      213: -8072340560436237167
+    second: fire_circles_50x50px_35
+  - first:
+      213: -8273221769606038483
+    second: fire_circles_50x50px_36
+  - first:
+      213: 7521914959288413653
+    second: fire_circles_50x50px_37
+  - first:
+      213: -4944391225920945611
+    second: fire_circles_50x50px_38
+  - first:
+      213: 4019392488153224286
+    second: fire_circles_50x50px_39
+  - first:
+      213: -2491627580083273903
+    second: fire_circles_50x50px_40
+  - first:
+      213: -5582616705583854726
+    second: fire_circles_50x50px_41
+  - first:
+      213: 3881864598880179847
+    second: fire_circles_50x50px_42
+  - first:
+      213: -8117296299895292166
+    second: fire_circles_50x50px_43
+  - first:
+      213: -6885553838791132381
+    second: fire_circles_50x50px_44
+  - first:
+      213: -3240954572774175040
+    second: fire_circles_50x50px_45
+  - first:
+      213: -4973086169035978531
+    second: fire_circles_50x50px_46
+  - first:
+      213: -7486861377289644449
+    second: fire_circles_50x50px_47
+  - first:
+      213: -4687648768382975156
+    second: fire_circles_50x50px_48
+  - first:
+      213: 1081915532362354130
+    second: fire_circles_50x50px_49
+  - first:
+      213: -8954657648535832593
+    second: fire_circles_50x50px_50
+  - first:
+      213: -5719355579059232334
+    second: fire_circles_50x50px_51
+  - first:
+      213: 6488242157810412379
+    second: fire_circles_50x50px_52
+  - first:
+      213: 4092024429614694329
+    second: fire_circles_50x50px_53
+  - first:
+      213: 6483170174936522613
+    second: fire_circles_50x50px_54
+  - first:
+      213: 23949605124019882
+    second: fire_circles_50x50px_55
+  - first:
+      213: 3029973180670671047
+    second: fire_circles_50x50px_56
+  - first:
+      213: -4832829190876989035
+    second: fire_circles_50x50px_57
+  - first:
+      213: -7184982236089038636
+    second: fire_circles_50x50px_58
+  - first:
+      213: -5916766929684006057
+    second: fire_circles_50x50px_59
+  - first:
+      213: -5894712894409586397
+    second: fire_circles_50x50px_60
+  - first:
+      213: 6107775399123737507
+    second: fire_circles_50x50px_61
+  - first:
+      213: 5519299917014211934
+    second: fire_circles_50x50px_62
+  - first:
+      213: -6524464086719082074
+    second: fire_circles_50x50px_63
+  - first:
+      213: -7220835511439309534
+    second: fire_circles_50x50px_64
+  - first:
+      213: -4444014047831473347
+    second: fire_circles_50x50px_65
+  - first:
+      213: 7600721359056308570
+    second: fire_circles_50x50px_66
+  - first:
+      213: 1792615056931494594
+    second: fire_circles_50x50px_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_circles_50x50px_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 357
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2c6f31d1a74fa0800000000000000
+      internalID: -5816502473641415130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 357
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f786bfb114b519a0800000000000000
+      internalID: -6262901718464952334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 357
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f1a42aea71b880800000000000000
+      internalID: -8596955067618037382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5181c8afd54470800000000000000
+      internalID: 8378348597686656541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 357
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41180857f2e42490800000000000000
+      internalID: -7771837504972910257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 357
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771650b9e5164f100800000000000000
+      internalID: 140844547310969207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 357
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a036af644c9e3e550800000000000000
+      internalID: 6189047342150869770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 357
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7a54baba02030e0800000000000000
+      internalID: -2292296288646617137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791eda256b51f240800000000000000
+      internalID: 4823737165959534960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 307
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906bcf33c81c758f0800000000000000
+      internalID: -551759621417814519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 307
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a88c45764062e7e0800000000000000
+      internalID: -1737720650479662943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 307
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104595d301fa01cd0800000000000000
+      internalID: -2589377301454433279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 307
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21486a125ddcfa070800000000000000
+      internalID: 8119934968448582674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 307
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37498b922a6b6560800000000000000
+      internalID: 7308051517209659197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 317
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e1086e1c5da3a0800000000000000
+      internalID: -6652559788892625430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 307
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835ed20034c337210800000000000000
+      internalID: 1329472573467911480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 317
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d11ff63d42f2640800000000000000
+      internalID: 5057301397095128478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 307
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0b4c05bdf027ac0800000000000000
+      internalID: -3859004496075771665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2c71175e719db0800000000000000
+      internalID: -4786906016497520949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 257
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056dee4fc6bc7840800000000000000
+      internalID: 5223250669341598976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 257
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e607c400d39200800000000000000
+      internalID: 185720728589885591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab498bf730d2ae9b0800000000000000
+      internalID: -5050174539091635014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe9cafa14ca8580800000000000000
+      internalID: -8824024899723334715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 257
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ea1dbb80891d60800000000000000
+      internalID: 7861455962213378390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b3a77100402b70800000000000000
+      internalID: 8872161640966240679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 257
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e1aaa7c710c180800000000000000
+      internalID: -9097245100959734262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 257
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f4ddd409090280800000000000000
+      internalID: -9076713657482283147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24937f55617cf690800000000000000
+      internalID: -7567048593682230227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 209
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cab2e39f134e950800000000000000
+      internalID: 6477357110625283102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 214
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d58850e60af8c0800000000000000
+      internalID: -3964848961318692605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 209
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d74646bd1088980800000000000000
+      internalID: -8536571051887002330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 214
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc0888bf9c975b70800000000000000
+      internalID: 8887744599448620230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 209
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a43c3797fdaf6d0800000000000000
+      internalID: -2955804492689094137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 209
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d14a0e1a7cb430800000000000000
+      internalID: 3800046455033549529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 209
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b6384a6b17fa1c0800000000000000
+      internalID: -4490245274207032430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 209
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c6835870949ff80800000000000000
+      internalID: -8072340560436237167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 210
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7a9a42ac9f2d80800000000000000
+      internalID: -8273221769606038483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 160
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd251b7dc5336860800000000000000
+      internalID: 7521914959288413653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 163
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5328c64606ef16bb0800000000000000
+      internalID: -4944391225920945611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e541f3d1c20c7c730800000000000000
+      internalID: 4019392488153224286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ff198cae5fb6dd0800000000000000
+      internalID: -2491627580083273903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 160
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b438a2faf8682b0800000000000000
+      internalID: -5582616705583854726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786da6229472fd530800000000000000
+      internalID: 3881864598880179847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 159
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afef524c502995f80800000000000000
+      internalID: -8117296299895292166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 158
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf60dc3499170a0800000000000000
+      internalID: -6885553838791132381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce0e94ccf0d503d0800000000000000
+      internalID: -3240954572774175040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 107
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c3315a7c0cfab0800000000000000
+      internalID: -4973086169035978531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561f049e33591890800000000000000
+      internalID: -7486861377289644449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 107
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434cb8084022feb0800000000000000
+      internalID: -4687648768382975156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8f67c17cb30f00800000000000000
+      internalID: 1081915532362354130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 107
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe779cdff4aaab380800000000000000
+      internalID: -8954657648535832593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 107
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a60e3764c0a0b0800000000000000
+      internalID: -5719355579059232334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 107
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be009cdddda0a50800000000000000
+      internalID: 6488242157810412379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 57
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf776bc98ac9c830800000000000000
+      internalID: 4092024429614694329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9f7fbce8d8f950800000000000000
+      internalID: 6483170174936522613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 57
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa69de9f906155000800000000000000
+      internalID: 23949605124019882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_56
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 57
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8f5d8ed80ac0a20800000000000000
+      internalID: 3029973180670671047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 57
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59973a1d4775eecb0800000000000000
+      internalID: -4832829190876989035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8cb6459b0d94c90800000000000000
+      internalID: -7184982236089038636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 57
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bf76963db63eda0800000000000000
+      internalID: -5916766929684006057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294dc3aad5c13ea0800000000000000
+      internalID: -5894712894409586397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 57
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd3a87d5d23c450800000000000000
+      internalID: 6107775399123737507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 57
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d9972380e789c40800000000000000
+      internalID: 5519299917014211934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d0513b727475a0800000000000000
+      internalID: -6524464086719082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22542272c507acb90800000000000000
+      internalID: -7220835511439309534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c826d4c0b352c0800000000000000
+      internalID: -4444014047831473347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5986434ecf2b7960800000000000000
+      internalID: 7600721359056308570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_circles_50x50px_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca1b6785e5a0e810800000000000000
+      internalID: 1792615056931494594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fire_circles_50x50px_0: -5816502473641415130
+      fire_circles_50x50px_1: -6262901718464952334
+      fire_circles_50x50px_10: -1737720650479662943
+      fire_circles_50x50px_11: -2589377301454433279
+      fire_circles_50x50px_12: 8119934968448582674
+      fire_circles_50x50px_13: 7308051517209659197
+      fire_circles_50x50px_14: -6652559788892625430
+      fire_circles_50x50px_15: 1329472573467911480
+      fire_circles_50x50px_16: 5057301397095128478
+      fire_circles_50x50px_17: -3859004496075771665
+      fire_circles_50x50px_18: -4786906016497520949
+      fire_circles_50x50px_19: 5223250669341598976
+      fire_circles_50x50px_2: -8596955067618037382
+      fire_circles_50x50px_20: 185720728589885591
+      fire_circles_50x50px_21: -5050174539091635014
+      fire_circles_50x50px_22: -8824024899723334715
+      fire_circles_50x50px_23: 7861455962213378390
+      fire_circles_50x50px_24: 8872161640966240679
+      fire_circles_50x50px_25: -9097245100959734262
+      fire_circles_50x50px_26: -9076713657482283147
+      fire_circles_50x50px_27: -7567048593682230227
+      fire_circles_50x50px_28: 6477357110625283102
+      fire_circles_50x50px_29: -3964848961318692605
+      fire_circles_50x50px_3: 8378348597686656541
+      fire_circles_50x50px_30: -8536571051887002330
+      fire_circles_50x50px_31: 8887744599448620230
+      fire_circles_50x50px_32: -2955804492689094137
+      fire_circles_50x50px_33: 3800046455033549529
+      fire_circles_50x50px_34: -4490245274207032430
+      fire_circles_50x50px_35: -8072340560436237167
+      fire_circles_50x50px_36: -8273221769606038483
+      fire_circles_50x50px_37: 7521914959288413653
+      fire_circles_50x50px_38: -4944391225920945611
+      fire_circles_50x50px_39: 4019392488153224286
+      fire_circles_50x50px_4: -7771837504972910257
+      fire_circles_50x50px_40: -2491627580083273903
+      fire_circles_50x50px_41: -5582616705583854726
+      fire_circles_50x50px_42: 3881864598880179847
+      fire_circles_50x50px_43: -8117296299895292166
+      fire_circles_50x50px_44: -6885553838791132381
+      fire_circles_50x50px_45: -3240954572774175040
+      fire_circles_50x50px_46: -4973086169035978531
+      fire_circles_50x50px_47: -7486861377289644449
+      fire_circles_50x50px_48: -4687648768382975156
+      fire_circles_50x50px_49: 1081915532362354130
+      fire_circles_50x50px_5: 140844547310969207
+      fire_circles_50x50px_50: -8954657648535832593
+      fire_circles_50x50px_51: -5719355579059232334
+      fire_circles_50x50px_52: 6488242157810412379
+      fire_circles_50x50px_53: 4092024429614694329
+      fire_circles_50x50px_54: 6483170174936522613
+      fire_circles_50x50px_55: 23949605124019882
+      fire_circles_50x50px_56: 3029973180670671047
+      fire_circles_50x50px_57: -4832829190876989035
+      fire_circles_50x50px_58: -7184982236089038636
+      fire_circles_50x50px_59: -5916766929684006057
+      fire_circles_50x50px_6: 6189047342150869770
+      fire_circles_50x50px_60: -5894712894409586397
+      fire_circles_50x50px_61: 6107775399123737507
+      fire_circles_50x50px_62: 5519299917014211934
+      fire_circles_50x50px_63: -6524464086719082074
+      fire_circles_50x50px_64: -7220835511439309534
+      fire_circles_50x50px_65: -4444014047831473347
+      fire_circles_50x50px_66: 7600721359056308570
+      fire_circles_50x50px_67: 1792615056931494594
+      fire_circles_50x50px_7: -2292296288646617137
+      fire_circles_50x50px_8: 4823737165959534960
+      fire_circles_50x50px_9: -551759621417814519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
