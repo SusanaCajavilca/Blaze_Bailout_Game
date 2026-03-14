@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: f21bd93ec6001af4580d20f9ac012d2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243377863749532620
+    second: FireGuy3-00_PowerUp_0
+  - first:
+      213: -2027673828223646174
+    second: FireGuy3-00_PowerUp_1
+  - first:
+      213: -3870849076460064779
+    second: FireGuy3-00_PowerUp_2
+  - first:
+      213: 674214313183371740
+    second: FireGuy3-00_PowerUp_3
+  - first:
+      213: 2701008452033249379
+    second: FireGuy3-00_PowerUp_4
+  - first:
+      213: 4401491329948049404
+    second: FireGuy3-00_PowerUp_5
+  - first:
+      213: -2564410247184354863
+    second: FireGuy3-00_PowerUp_6
+  - first:
+      213: -8159557818646894565
+    second: FireGuy3-00_PowerUp_7
+  - first:
+      213: 7086982821782426379
+    second: FireGuy3-00_PowerUp_8
+  - first:
+      213: 7385733902780382342
+    second: FireGuy3-00_PowerUp_9
+  - first:
+      213: -281449385006978093
+    second: FireGuy3-00_PowerUp_10
+  - first:
+      213: -4406068810873857029
+    second: FireGuy3-00_PowerUp_11
+  - first:
+      213: -5094095551975152150
+    second: FireGuy3-00_PowerUp_12
+  - first:
+      213: 3832433701858199294
+    second: FireGuy3-00_PowerUp_13
+  - first:
+      213: 8622610301332641514
+    second: FireGuy3-00_PowerUp_14
+  - first:
+      213: 8624278013497619193
+    second: FireGuy3-00_PowerUp_15
+  - first:
+      213: -8383087032916623228
+    second: FireGuy3-00_PowerUp_16
+  - first:
+      213: 369473028539105597
+    second: FireGuy3-00_PowerUp_17
+  - first:
+      213: -7704748040423825935
+    second: FireGuy3-00_PowerUp_18
+  - first:
+      213: -8353447134732488806
+    second: FireGuy3-00_PowerUp_19
+  - first:
+      213: 2341673683747205194
+    second: FireGuy3-00_PowerUp_20
+  - first:
+      213: 5759042058494169380
+    second: FireGuy3-00_PowerUp_21
+  - first:
+      213: 3105473408101601266
+    second: FireGuy3-00_PowerUp_22
+  - first:
+      213: 489427869429535498
+    second: FireGuy3-00_PowerUp_23
+  - first:
+      213: 1815650159969133667
+    second: FireGuy3-00_PowerUp_24
+  - first:
+      213: -1313639055393662725
+    second: FireGuy3-00_PowerUp_25
+  - first:
+      213: 9014536107084040857
+    second: FireGuy3-00_PowerUp_26
+  - first:
+      213: -8599216996280989979
+    second: FireGuy3-00_PowerUp_27
+  - first:
+      213: 4241278929629651062
+    second: FireGuy3-00_PowerUp_28
+  - first:
+      213: 3379272575292531079
+    second: FireGuy3-00_PowerUp_29
+  - first:
+      213: -2148820523892956597
+    second: FireGuy3-00_PowerUp_30
+  - first:
+      213: 2001406846942915403
+    second: FireGuy3-00_PowerUp_31
+  - first:
+      213: -332325689154758786
+    second: FireGuy3-00_PowerUp_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340841c53a5a7b90800000000000000
+      internalID: -7243377863749532620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268f5475614cd3e0800000000000000
+      internalID: -2027673828223646174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe27a064bf74ac0800000000000000
+      internalID: -3870849076460064779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd167cf785a4b5900800000000000000
+      internalID: 674214313183371740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36005c660e8eb7520800000000000000
+      internalID: 2701008452033249379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffd3836b0d351d30800000000000000
+      internalID: 4401491329948049404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1743e8772696cd0800000000000000
+      internalID: -2564410247184354863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b186a47256d63ce80800000000000000
+      internalID: -8159557818646894565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0313a5f3550a5260800000000000000
+      internalID: 7086982821782426379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb8c07ad56f7660800000000000000
+      internalID: 7385733902780382342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db28688647181cf0800000000000000
+      internalID: -281449385006978093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb9fe7c2cf7ad2c0800000000000000
+      internalID: -4406068810873857029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5af9cc5132e49b0800000000000000
+      internalID: -5094095551975152150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef64e70952a8f2530800000000000000
+      internalID: 3832433701858199294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae65e8f626aa9a770800000000000000
+      internalID: 8622610301332641514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2bcbee8279fa770800000000000000
+      internalID: 8624278013497619193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48042d152ca49ab80800000000000000
+      internalID: -8383087032916623228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31492c03c1a02500800000000000000
+      internalID: 369473028539105597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd96ae8a7c331590800000000000000
+      internalID: -7704748040423825935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe344e618921c80800000000000000
+      internalID: -8353447134732488806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f1a30fcb4f7020800000000000000
+      internalID: 2341673683747205194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421541f4d3a3cef40800000000000000
+      internalID: 5759042058494169380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff41557c9bd81b20800000000000000
+      internalID: 3105473408101601266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 0
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03168cdd0ccac600800000000000000
+      internalID: 489427869429535498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646755633c723910800000000000000
+      internalID: 1815650159969133667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85e243d3405cde0800000000000000
+      internalID: -1313639055393662725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a4dad04d01a1d70800000000000000
+      internalID: 9014536107084040857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_27
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68b26d3b179a880800000000000000
+      internalID: -8599216996280989979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_28
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ace917bc0cda30800000000000000
+      internalID: 4241278929629651062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_29
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e789c08695ee20800000000000000
+      internalID: 3379272575292531079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42aa435e1bdd22e0800000000000000
+      internalID: -2148820523892956597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b21136cec66cb10800000000000000
+      internalID: 2001406846942915403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-00_PowerUp_32
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e779134eb87536bf0800000000000000
+      internalID: -332325689154758786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireGuy3-00_PowerUp_0: -7243377863749532620
+      FireGuy3-00_PowerUp_1: -2027673828223646174
+      FireGuy3-00_PowerUp_10: -281449385006978093
+      FireGuy3-00_PowerUp_11: -4406068810873857029
+      FireGuy3-00_PowerUp_12: -5094095551975152150
+      FireGuy3-00_PowerUp_13: 3832433701858199294
+      FireGuy3-00_PowerUp_14: 8622610301332641514
+      FireGuy3-00_PowerUp_15: 8624278013497619193
+      FireGuy3-00_PowerUp_16: -8383087032916623228
+      FireGuy3-00_PowerUp_17: 369473028539105597
+      FireGuy3-00_PowerUp_18: -7704748040423825935
+      FireGuy3-00_PowerUp_19: -8353447134732488806
+      FireGuy3-00_PowerUp_2: -3870849076460064779
+      FireGuy3-00_PowerUp_20: 2341673683747205194
+      FireGuy3-00_PowerUp_21: 5759042058494169380
+      FireGuy3-00_PowerUp_22: 3105473408101601266
+      FireGuy3-00_PowerUp_23: 489427869429535498
+      FireGuy3-00_PowerUp_24: 1815650159969133667
+      FireGuy3-00_PowerUp_25: -1313639055393662725
+      FireGuy3-00_PowerUp_26: 9014536107084040857
+      FireGuy3-00_PowerUp_27: -8599216996280989979
+      FireGuy3-00_PowerUp_28: 4241278929629651062
+      FireGuy3-00_PowerUp_29: 3379272575292531079
+      FireGuy3-00_PowerUp_3: 674214313183371740
+      FireGuy3-00_PowerUp_30: -2148820523892956597
+      FireGuy3-00_PowerUp_31: 2001406846942915403
+      FireGuy3-00_PowerUp_32: -332325689154758786
+      FireGuy3-00_PowerUp_4: 2701008452033249379
+      FireGuy3-00_PowerUp_5: 4401491329948049404
+      FireGuy3-00_PowerUp_6: -2564410247184354863
+      FireGuy3-00_PowerUp_7: -8159557818646894565
+      FireGuy3-00_PowerUp_8: 7086982821782426379
+      FireGuy3-00_PowerUp_9: 7385733902780382342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

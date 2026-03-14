@@ -1,0 +1,59 @@
+IceTile0:
+   * Frame size: 8x8
+   * Frame count: 1
+   * FPS: NA
+   * (IceTile.ase)
+
+IceTile1_Melt:
+   * Frame size: 8x8
+   * Frame count: 29
+   * FPS: NA
+   * (IceTile.ase)
+
+----------
+
+WaterTile0_Under:
+   * Frame size: 8x8
+   * Frame count: 1
+   * FPS: NA
+   * (WaterTile.ase)
+
+WaterTile1_Surface:
+   * Frame size: 8x8
+   * Frame count: 16
+   * FPS: 6
+   * (WaterTile.ase)
+
+----------
+
+WoodTile0:
+   * Frame size: 8x8
+   * Frame count: 1
+   * FPS: NA
+   * (WoodTile.ase)
+
+WoodTile1-0_Burn:
+   * Frame size: 32x32
+   * Frame count: 47
+   * FPS: 18
+   * (WoodTileBurn.ase)
+
+WoodTile1-1_Wood:
+   * Frame size: 32x32
+   * Frame count: 47
+   * FPS: 18
+   * (WoodTileBurn.ase)
+
+WoodTile1-2_Flame:
+   * Frame size: 32x32
+   * Frame count: 40
+   * FPS: 18
+   * (WoodTileBurn.ase)
+
+----------
+
+MetalBars:
+   * Frame size: 8x8
+   * Frame count: 1
+   * FPS: NA
+   * (MetalBars.ase)

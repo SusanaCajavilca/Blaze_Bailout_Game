@@ -1,0 +1,27 @@
+ButtonMain:
+   * Frame size: 68x30
+
+----------
+
+ButtonSmall:
+   * Frame size: 30x30
+
+----------
+
+CircleButton:
+   * Frame size: 20x20
+
+----------
+
+SliderBar:
+   * Frame size: 48x4
+
+----------
+
+SliderButton:
+   * Frame size: 10x10
+
+----------
+
+SoundToggleOff/On:
+   * Frame size: 18x18

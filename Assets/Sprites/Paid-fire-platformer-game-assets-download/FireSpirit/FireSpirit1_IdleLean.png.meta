@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: a3e29c6160739e24094d72fc4c89039b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2437633513069581545
+    second: FireSpirit1_IdleLean_0
+  - first:
+      213: -6327057441408373
+    second: FireSpirit1_IdleLean_1
+  - first:
+      213: 1526832792023467661
+    second: FireSpirit1_IdleLean_2
+  - first:
+      213: -6649457673476014212
+    second: FireSpirit1_IdleLean_3
+  - first:
+      213: 4990085346463642658
+    second: FireSpirit1_IdleLean_4
+  - first:
+      213: 7716432834490731224
+    second: FireSpirit1_IdleLean_5
+  - first:
+      213: -2408891180439349548
+    second: FireSpirit1_IdleLean_6
+  - first:
+      213: -7660676491657165233
+    second: FireSpirit1_IdleLean_7
+  - first:
+      213: -7199405035637591573
+    second: FireSpirit1_IdleLean_8
+  - first:
+      213: -3153609829377319097
+    second: FireSpirit1_IdleLean_9
+  - first:
+      213: 8277248448324092359
+    second: FireSpirit1_IdleLean_10
+  - first:
+      213: -399738947965751884
+    second: FireSpirit1_IdleLean_11
+  - first:
+      213: 3166392332739705561
+    second: FireSpirit1_IdleLean_12
+  - first:
+      213: 2777571339362220281
+    second: FireSpirit1_IdleLean_13
+  - first:
+      213: 4026736376575769251
+    second: FireSpirit1_IdleLean_14
+  - first:
+      213: -5231255678330197544
+    second: FireSpirit1_IdleLean_15
+  - first:
+      213: 4665906052360457771
+    second: FireSpirit1_IdleLean_16
+  - first:
+      213: 9216980773314462351
+    second: FireSpirit1_IdleLean_17
+  - first:
+      213: -773547914528283123
+    second: FireSpirit1_IdleLean_18
+  - first:
+      213: 5383254583276463077
+    second: FireSpirit1_IdleLean_19
+  - first:
+      213: -1167038280124039160
+    second: FireSpirit1_IdleLean_20
+  - first:
+      213: 8108277295012592592
+    second: FireSpirit1_IdleLean_21
+  - first:
+      213: 2512022194312281308
+    second: FireSpirit1_IdleLean_22
+  - first:
+      213: 6992062587071539134
+    second: FireSpirit1_IdleLean_23
+  - first:
+      213: 8460696017454397556
+    second: FireSpirit1_IdleLean_24
+  - first:
+      213: -7099776479430525482
+    second: FireSpirit1_IdleLean_25
+  - first:
+      213: 5864321191350694469
+    second: FireSpirit1_IdleLean_26
+  - first:
+      213: 7140978210133542430
+    second: FireSpirit1_IdleLean_27
+  - first:
+      213: 5789938198366605146
+    second: FireSpirit1_IdleLean_28
+  - first:
+      213: 5974661816350193787
+    second: FireSpirit1_IdleLean_29
+  - first:
+      213: 5546507530248619388
+    second: FireSpirit1_IdleLean_30
+  - first:
+      213: -727329539433472487
+    second: FireSpirit1_IdleLean_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49917d3c634d120800000000000000
+      internalID: 2437633513069581545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3bb4239589eff0800000000000000
+      internalID: -6327057441408373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d860af7b556603510800000000000000
+      internalID: 1526832792023467661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f777fe97168b3a0800000000000000
+      internalID: -6649457673476014212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f8da1f28504540800000000000000
+      internalID: 4990085346463642658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0bf097c6461b60800000000000000
+      internalID: 7716432834490731224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65757fb36e19ed0800000000000000
+      internalID: -2408891180439349548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c69f915fcfa590800000000000000
+      internalID: -7660676491657165233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b9a0a343961c90800000000000000
+      internalID: -7199405035637591573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd8c791902c34d0800000000000000
+      internalID: -3153609829377319097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c208eb91bed270800000000000000
+      internalID: 8277248448324092359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdec937b87d37af0800000000000000
+      internalID: -399738947965751884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da7874ec0941fb20800000000000000
+      internalID: 3166392332739705561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8bdfcba6aeb8620800000000000000
+      internalID: 2777571339362220281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa31f16667d1e730800000000000000
+      internalID: 4026736376575769251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d922eb4da8d667b0800000000000000
+      internalID: -5231255678330197544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4a4665d0a0c040800000000000000
+      internalID: 4665906052360457771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82830ffd2b49ef70800000000000000
+      internalID: 9216980773314462351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062cc9254ec345f0800000000000000
+      internalID: -773547914528283123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3efa3958925ba40800000000000000
+      internalID: 5383254583276463077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8008ce11ed8ddcfe0800000000000000
+      internalID: -1167038280124039160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_21
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db37958d33668070800000000000000
+      internalID: 8108277295012592592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_22
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc71ef50ee7cd220800000000000000
+      internalID: 2512022194312281308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7a2bd90ebc80160800000000000000
+      internalID: 6992062587071539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_24
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4787ee0833e6a6570800000000000000
+      internalID: 8460696017454397556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_25
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddbede78e6887d90800000000000000
+      internalID: -7099776479430525482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f0439d01426150800000000000000
+      internalID: 5864321191350694469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1680dbf8d9d91360800000000000000
+      internalID: 7140978210133542430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_28
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f4b117d1ef95050800000000000000
+      internalID: 5789938198366605146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_29
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b4a054434ae250800000000000000
+      internalID: 5974661816350193787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_30
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758f7c463729fc40800000000000000
+      internalID: 5546507530248619388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit1_IdleLean_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 10
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5b6f23a108e5f0800000000000000
+      internalID: -727329539433472487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireSpirit1_IdleLean_0: 2437633513069581545
+      FireSpirit1_IdleLean_1: -6327057441408373
+      FireSpirit1_IdleLean_10: 8277248448324092359
+      FireSpirit1_IdleLean_11: -399738947965751884
+      FireSpirit1_IdleLean_12: 3166392332739705561
+      FireSpirit1_IdleLean_13: 2777571339362220281
+      FireSpirit1_IdleLean_14: 4026736376575769251
+      FireSpirit1_IdleLean_15: -5231255678330197544
+      FireSpirit1_IdleLean_16: 4665906052360457771
+      FireSpirit1_IdleLean_17: 9216980773314462351
+      FireSpirit1_IdleLean_18: -773547914528283123
+      FireSpirit1_IdleLean_19: 5383254583276463077
+      FireSpirit1_IdleLean_2: 1526832792023467661
+      FireSpirit1_IdleLean_20: -1167038280124039160
+      FireSpirit1_IdleLean_21: 8108277295012592592
+      FireSpirit1_IdleLean_22: 2512022194312281308
+      FireSpirit1_IdleLean_23: 6992062587071539134
+      FireSpirit1_IdleLean_24: 8460696017454397556
+      FireSpirit1_IdleLean_25: -7099776479430525482
+      FireSpirit1_IdleLean_26: 5864321191350694469
+      FireSpirit1_IdleLean_27: 7140978210133542430
+      FireSpirit1_IdleLean_28: 5789938198366605146
+      FireSpirit1_IdleLean_29: 5974661816350193787
+      FireSpirit1_IdleLean_3: -6649457673476014212
+      FireSpirit1_IdleLean_30: 5546507530248619388
+      FireSpirit1_IdleLean_31: -727329539433472487
+      FireSpirit1_IdleLean_4: 4990085346463642658
+      FireSpirit1_IdleLean_5: 7716432834490731224
+      FireSpirit1_IdleLean_6: -2408891180439349548
+      FireSpirit1_IdleLean_7: -7660676491657165233
+      FireSpirit1_IdleLean_8: -7199405035637591573
+      FireSpirit1_IdleLean_9: -3153609829377319097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 3b7a65ff6b50b7a4a92afb43663a6e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8110829541387456552
+    second: IceSpike4_Destroy_0
+  - first:
+      213: 7563502577376340179
+    second: IceSpike4_Destroy_1
+  - first:
+      213: -8525990498486390343
+    second: IceSpike4_Destroy_2
+  - first:
+      213: -3768132082823555873
+    second: IceSpike4_Destroy_3
+  - first:
+      213: -367485729991448018
+    second: IceSpike4_Destroy_4
+  - first:
+      213: -7364053152881406991
+    second: IceSpike4_Destroy_5
+  - first:
+      213: 3599069623634169017
+    second: IceSpike4_Destroy_6
+  - first:
+      213: -3544920549033568985
+    second: IceSpike4_Destroy_7
+  - first:
+      213: -8365170031858568693
+    second: IceSpike4_Destroy_8
+  - first:
+      213: -4247126210008141419
+    second: IceSpike4_Destroy_9
+  - first:
+      213: -5426132099502475011
+    second: IceSpike4_Destroy_10
+  - first:
+      213: -4109224171552103281
+    second: IceSpike4_Destroy_11
+  - first:
+      213: 5135348833267637321
+    second: IceSpike4_Destroy_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2bdf418b807f80800000000000000
+      internalID: -8110829541387456552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8a44e5585f6f860800000000000000
+      internalID: 7563502577376340179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 34
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fc5370d89da980800000000000000
+      internalID: -8525990498486390343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49c88c5d7e4bbc0800000000000000
+      internalID: -3768132082823555873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa5d3fcad66eaf0800000000000000
+      internalID: -367485729991448018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb88638ca0adc990800000000000000
+      internalID: -7364053152881406991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0d9601c672f130800000000000000
+      internalID: 3599069623634169017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 14
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7251fddda89edcec0800000000000000
+      internalID: -3544920549033568985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b3553d22f8eb80800000000000000
+      internalID: -8365170031858568693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591b638d63d2f05c0800000000000000
+      internalID: -4247126210008141419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 11
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df87fc8ba9182b4b0800000000000000
+      internalID: -5426132099502475011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f842038336a19f6c0800000000000000
+      internalID: -4109224171552103281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSpike4_Destroy_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 12
+        width: 229
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c52ac3e8c644740800000000000000
+      internalID: 5135348833267637321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceSpike4_Destroy_0: -8110829541387456552
+      IceSpike4_Destroy_1: 7563502577376340179
+      IceSpike4_Destroy_10: -5426132099502475011
+      IceSpike4_Destroy_11: -4109224171552103281
+      IceSpike4_Destroy_12: 5135348833267637321
+      IceSpike4_Destroy_2: -8525990498486390343
+      IceSpike4_Destroy_3: -3768132082823555873
+      IceSpike4_Destroy_4: -367485729991448018
+      IceSpike4_Destroy_5: -7364053152881406991
+      IceSpike4_Destroy_6: 3599069623634169017
+      IceSpike4_Destroy_7: -3544920549033568985
+      IceSpike4_Destroy_8: -8365170031858568693
+      IceSpike4_Destroy_9: -4247126210008141419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,103 @@
+FireGuy0_Idle:
+   * Frame size: 16x20
+   * Frame count: 11
+   * FPS: 18
+   * (FireGuy0_Idle.ase)
+
+----------
+
+FireGuy1_Run:
+   * Frame size: 16x20
+   * Frame count: 10
+   * FPS: 18
+   * (FireGuy1_Run.ase)
+
+----------
+
+FireGuy2-0_Jump:
+   * Frame size: 16x20
+   * Frame count: 11
+   * FPS: 30
+   * (FireGuy2_Jump_Air.ase)
+
+FireGuy2-1_AirDown:
+   * Frame size: 16x20
+   * Frame count: 6
+   * FPS: 18
+   * (FireGuy2_Jump_Air.ase)
+
+FireGuy2-2_AirUp:
+   * Frame size: 16x20
+   * Frame count: 8
+   * FPS: 18
+   * (FireGuy2_Jump_Air.ase)
+
+----------
+
+FireGuy3-00_PowerUp:
+   * Frame size: 32x32
+   * Frame count: 32
+   * FPS: 18
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-01_PowerUp_Guy:
+   * Frame size: 32x32
+   * Frame count: 32
+   * FPS: 18
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-02_PowerUp_StompEffect:
+   * Frame size: 32x32
+   * Frame count: 11
+   * FPS: 18
+   * Begins at frame 8 of PowerUp
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-03_PowerUp_FlameEffect:
+   * Frame size: 32x32
+   * Frame count: 20
+   * FPS: 18
+   * Begins at frame 13 of PowerUp
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-10_PowerUpLoop:
+   * Frame size: 32x32
+   * Frame count: 5
+   * FPS: 18
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-11_PowerUpLoop_Guy:
+   * Frame size: 32x32
+   * Frame count: 5
+   * FPS: 18
+   * (FireGuy3_PowerUp.ase)
+
+FireGuy3-12_PowerUpLoop_Flame:
+   * Frame size: 32x32
+   * Frame count: 5
+   * FPS: 18
+   * (FireGuy3_PowerUp.ase)
+
+----------
+
+FireGuy4_Shrink:
+   * Frame size: 16x20
+   * Frame count: 6
+   * FPS: 20
+   * (FireGuy4_Shrink.ase)
+
+----------
+
+FireGuy5_Grow:
+   * Frame size: 16x20
+   * Frame count: 5
+   * FPS: 20
+   * (FireGuy5_Grow.ase)
+
+----------
+
+JumpEffect:
+   * Frame size: 32x16
+   * Frame count: 4
+   * FPS: 18
+   * (JumpEffect.ase)

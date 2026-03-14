@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b34de4f38e0879f45bfb927483f715d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 422599194662517860
+    second: FireGuy3-03_PowerUp_FlameEffect_0
+  - first:
+      213: -1238956331005715508
+    second: FireGuy3-03_PowerUp_FlameEffect_1
+  - first:
+      213: 7329133405555108320
+    second: FireGuy3-03_PowerUp_FlameEffect_2
+  - first:
+      213: 6224143773324339931
+    second: FireGuy3-03_PowerUp_FlameEffect_3
+  - first:
+      213: -584819211453144896
+    second: FireGuy3-03_PowerUp_FlameEffect_4
+  - first:
+      213: -3553499551898910113
+    second: FireGuy3-03_PowerUp_FlameEffect_5
+  - first:
+      213: -4386748611131191985
+    second: FireGuy3-03_PowerUp_FlameEffect_6
+  - first:
+      213: -383259209106447457
+    second: FireGuy3-03_PowerUp_FlameEffect_7
+  - first:
+      213: -3756524430279640150
+    second: FireGuy3-03_PowerUp_FlameEffect_8
+  - first:
+      213: 7367102391453916309
+    second: FireGuy3-03_PowerUp_FlameEffect_9
+  - first:
+      213: 1435217585495559536
+    second: FireGuy3-03_PowerUp_FlameEffect_10
+  - first:
+      213: -3083122907605655194
+    second: FireGuy3-03_PowerUp_FlameEffect_11
+  - first:
+      213: -2797746206881559555
+    second: FireGuy3-03_PowerUp_FlameEffect_12
+  - first:
+      213: 923262437725342790
+    second: FireGuy3-03_PowerUp_FlameEffect_13
+  - first:
+      213: 3636729206596744319
+    second: FireGuy3-03_PowerUp_FlameEffect_14
+  - first:
+      213: 8757862483514874074
+    second: FireGuy3-03_PowerUp_FlameEffect_15
+  - first:
+      213: 165536581514017782
+    second: FireGuy3-03_PowerUp_FlameEffect_16
+  - first:
+      213: -8986681859480527871
+    second: FireGuy3-03_PowerUp_FlameEffect_17
+  - first:
+      213: 3378906803635983773
+    second: FireGuy3-03_PowerUp_FlameEffect_18
+  - first:
+      213: 5512577489501154939
+    second: FireGuy3-03_PowerUp_FlameEffect_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 39
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb9308abf5dd500800000000000000
+      internalID: 422599194662517860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbde2ef7c75ecee0800000000000000
+      internalID: -1238956331005715508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9af8d300056b560800000000000000
+      internalID: 7329133405555108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdae4ffe8c9906650800000000000000
+      internalID: 6224143773324339931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e283960e42e7f0800000000000000
+      internalID: -584819211453144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f524e8b1cfe6faec0800000000000000
+      internalID: -3553499551898910113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d469251632f13c0800000000000000
+      internalID: -4386748611131191985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932058a7c36eaaf0800000000000000
+      internalID: -383259209106447457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabfa1ffee42edbc0800000000000000
+      internalID: -3756524430279640150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c9a8aa7943d3660800000000000000
+      internalID: 7367102391453916309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d4bd63acaeae310800000000000000
+      internalID: 1435217585495559536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ab45fc0c8635d0800000000000000
+      internalID: -3083122907605655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbc02fd5a86c29d0800000000000000
+      internalID: -2797746206881559555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c8413ab4610dc00800000000000000
+      internalID: 923262437725342790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74bc77f1f1487230800000000000000
+      internalID: 3636729206596744319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8df91178d2a8970800000000000000
+      internalID: 8757862483514874074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbb972d4aa1c4200800000000000000
+      internalID: 165536581514017782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c57385674e84380800000000000000
+      internalID: -8986681859480527871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d959fdfe5d944ee20800000000000000
+      internalID: 3378906803635983773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-03_PowerUp_FlameEffect_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee782150c908c40800000000000000
+      internalID: 5512577489501154939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireGuy3-03_PowerUp_FlameEffect_0: 422599194662517860
+      FireGuy3-03_PowerUp_FlameEffect_1: -1238956331005715508
+      FireGuy3-03_PowerUp_FlameEffect_10: 1435217585495559536
+      FireGuy3-03_PowerUp_FlameEffect_11: -3083122907605655194
+      FireGuy3-03_PowerUp_FlameEffect_12: -2797746206881559555
+      FireGuy3-03_PowerUp_FlameEffect_13: 923262437725342790
+      FireGuy3-03_PowerUp_FlameEffect_14: 3636729206596744319
+      FireGuy3-03_PowerUp_FlameEffect_15: 8757862483514874074
+      FireGuy3-03_PowerUp_FlameEffect_16: 165536581514017782
+      FireGuy3-03_PowerUp_FlameEffect_17: -8986681859480527871
+      FireGuy3-03_PowerUp_FlameEffect_18: 3378906803635983773
+      FireGuy3-03_PowerUp_FlameEffect_19: 5512577489501154939
+      FireGuy3-03_PowerUp_FlameEffect_2: 7329133405555108320
+      FireGuy3-03_PowerUp_FlameEffect_3: 6224143773324339931
+      FireGuy3-03_PowerUp_FlameEffect_4: -584819211453144896
+      FireGuy3-03_PowerUp_FlameEffect_5: -3553499551898910113
+      FireGuy3-03_PowerUp_FlameEffect_6: -4386748611131191985
+      FireGuy3-03_PowerUp_FlameEffect_7: -383259209106447457
+      FireGuy3-03_PowerUp_FlameEffect_8: -3756524430279640150
+      FireGuy3-03_PowerUp_FlameEffect_9: 7367102391453916309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

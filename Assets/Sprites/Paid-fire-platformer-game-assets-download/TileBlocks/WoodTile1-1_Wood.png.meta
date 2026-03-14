@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 2f9d5a03b199df446ba057a36dccf6a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5891253061115180790
+    second: WoodTile1-1_Wood_0
+  - first:
+      213: 3255345134717588324
+    second: WoodTile1-1_Wood_1
+  - first:
+      213: -5637618397632126125
+    second: WoodTile1-1_Wood_2
+  - first:
+      213: -8825196115050741919
+    second: WoodTile1-1_Wood_3
+  - first:
+      213: -299278843601969280
+    second: WoodTile1-1_Wood_4
+  - first:
+      213: -8235247553572351112
+    second: WoodTile1-1_Wood_5
+  - first:
+      213: 6925997847090279609
+    second: WoodTile1-1_Wood_6
+  - first:
+      213: -6879987645096969041
+    second: WoodTile1-1_Wood_7
+  - first:
+      213: -7286147320736258996
+    second: WoodTile1-1_Wood_8
+  - first:
+      213: -6416007263513837909
+    second: WoodTile1-1_Wood_9
+  - first:
+      213: -7007366308893034212
+    second: WoodTile1-1_Wood_10
+  - first:
+      213: -2785970032266139566
+    second: WoodTile1-1_Wood_11
+  - first:
+      213: 4461232838912443194
+    second: WoodTile1-1_Wood_12
+  - first:
+      213: 300646807197228475
+    second: WoodTile1-1_Wood_13
+  - first:
+      213: -6355460778510087758
+    second: WoodTile1-1_Wood_14
+  - first:
+      213: 376753158573217234
+    second: WoodTile1-1_Wood_15
+  - first:
+      213: 4520052123260185629
+    second: WoodTile1-1_Wood_16
+  - first:
+      213: 3496759626234940735
+    second: WoodTile1-1_Wood_17
+  - first:
+      213: 7974496966105356120
+    second: WoodTile1-1_Wood_18
+  - first:
+      213: -4864893981551910469
+    second: WoodTile1-1_Wood_19
+  - first:
+      213: 9060812319530606067
+    second: WoodTile1-1_Wood_20
+  - first:
+      213: 5120803898961065809
+    second: WoodTile1-1_Wood_21
+  - first:
+      213: -7512196180584608541
+    second: WoodTile1-1_Wood_22
+  - first:
+      213: 609449994399993617
+    second: WoodTile1-1_Wood_23
+  - first:
+      213: -6301022499114179329
+    second: WoodTile1-1_Wood_24
+  - first:
+      213: -4818233471313578524
+    second: WoodTile1-1_Wood_25
+  - first:
+      213: -6622704941886592524
+    second: WoodTile1-1_Wood_26
+  - first:
+      213: -527605516718714790
+    second: WoodTile1-1_Wood_27
+  - first:
+      213: 889243428000528719
+    second: WoodTile1-1_Wood_28
+  - first:
+      213: -9187928114445507773
+    second: WoodTile1-1_Wood_29
+  - first:
+      213: -4289672678027694712
+    second: WoodTile1-1_Wood_30
+  - first:
+      213: 6132199890140850069
+    second: WoodTile1-1_Wood_31
+  - first:
+      213: -308150939830240562
+    second: WoodTile1-1_Wood_32
+  - first:
+      213: -8441945216304108250
+    second: WoodTile1-1_Wood_33
+  - first:
+      213: -6968333988031655915
+    second: WoodTile1-1_Wood_34
+  - first:
+      213: 741651717328974227
+    second: WoodTile1-1_Wood_35
+  - first:
+      213: 5055483601145411157
+    second: WoodTile1-1_Wood_36
+  - first:
+      213: 5077939718222765109
+    second: WoodTile1-1_Wood_37
+  - first:
+      213: 3810606714611147295
+    second: WoodTile1-1_Wood_38
+  - first:
+      213: 8034355850373260058
+    second: WoodTile1-1_Wood_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f3b5227fe1c150800000000000000
+      internalID: 5891253061115180790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4635328072f4d2d20800000000000000
+      internalID: 3255345134717588324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532eedcfe723c1b0800000000000000
+      internalID: -5637618397632126125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3e3924ea968580800000000000000
+      internalID: -8825196115050741919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f90563a7fb8dbf0800000000000000
+      internalID: -299278843601969280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735ae37bf586bd80800000000000000
+      internalID: -8235247553572351112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4bfeea8561e1060800000000000000
+      internalID: 6925997847090279609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac3be240bf5580a0800000000000000
+      internalID: -6879987645096969041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e95e8d9762ea90800000000000000
+      internalID: -7286147320736258996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae7ee52363c5f6a0800000000000000
+      internalID: -6416007263513837909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f36bf775d0ce90800000000000000
+      internalID: -7007366308893034212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a4ef240f3659d0800000000000000
+      internalID: -2785970032266139566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330faf51ab79ed30800000000000000
+      internalID: 4461232838912443194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd98d1adac1c2400800000000000000
+      internalID: 300646807197228475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b98af8381edcc7a0800000000000000
+      internalID: -6355460778510087758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d553c8600f7a3500800000000000000
+      internalID: 376753158573217234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c6c2535737abe30800000000000000
+      internalID: 4520052123260185629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d49aa7a5cf68030800000000000000
+      internalID: 3496759626234940735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d32f6dba1bae60800000000000000
+      internalID: 7974496966105356120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a9a7f2bc6c7cb0800000000000000
+      internalID: -4864893981551910469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdda126cc87ebd70800000000000000
+      internalID: 9060812319530606067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_21
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577202d300c01740800000000000000
+      internalID: 5120803898961065809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_22
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec453500615fb790800000000000000
+      internalID: -7512196180584608541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f43987a83357800800000000000000
+      internalID: 609449994399993617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_24
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff42e8adb654e88a0800000000000000
+      internalID: -6301022499114179329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_25
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 10
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f4799f22322db0800000000000000
+      internalID: -4818233471313578524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 8
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f920a6a1fc6714a0800000000000000
+      internalID: -6622704941886592524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d172f3919da8f0800000000000000
+      internalID: -527605516718714790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_28
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 4
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4972d4bf2a375c00800000000000000
+      internalID: 889243428000528719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_29
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343a6a44f0ced7080800000000000000
+      internalID: -9187928114445507773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_30
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 4
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de57f4d650874c0800000000000000
+      internalID: -4289672678027694712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e88f6f43f91550800000000000000
+      internalID: 6132199890140850069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_32
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca37365a5a39bbf0800000000000000
+      internalID: -308150939830240562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_33
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da2e89d8f28da80800000000000000
+      internalID: -8441945216304108250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_34
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510971f58218b4f90800000000000000
+      internalID: -6968333988031655915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_35
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 5
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b376be40ea4a00800000000000000
+      internalID: 741651717328974227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_36
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556b516dc8fa82640800000000000000
+      internalID: 5055483601145411157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_37
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 5
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd3870547787640800000000000000
+      internalID: 5077939718222765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_38
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ad131e9ef1e430800000000000000
+      internalID: 3810606714611147295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-1_Wood_39
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 3
+        width: 231
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13649cf314cf7f60800000000000000
+      internalID: 8034355850373260058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WoodTile1-1_Wood_0: 5891253061115180790
+      WoodTile1-1_Wood_1: 3255345134717588324
+      WoodTile1-1_Wood_10: -7007366308893034212
+      WoodTile1-1_Wood_11: -2785970032266139566
+      WoodTile1-1_Wood_12: 4461232838912443194
+      WoodTile1-1_Wood_13: 300646807197228475
+      WoodTile1-1_Wood_14: -6355460778510087758
+      WoodTile1-1_Wood_15: 376753158573217234
+      WoodTile1-1_Wood_16: 4520052123260185629
+      WoodTile1-1_Wood_17: 3496759626234940735
+      WoodTile1-1_Wood_18: 7974496966105356120
+      WoodTile1-1_Wood_19: -4864893981551910469
+      WoodTile1-1_Wood_2: -5637618397632126125
+      WoodTile1-1_Wood_20: 9060812319530606067
+      WoodTile1-1_Wood_21: 5120803898961065809
+      WoodTile1-1_Wood_22: -7512196180584608541
+      WoodTile1-1_Wood_23: 609449994399993617
+      WoodTile1-1_Wood_24: -6301022499114179329
+      WoodTile1-1_Wood_25: -4818233471313578524
+      WoodTile1-1_Wood_26: -6622704941886592524
+      WoodTile1-1_Wood_27: -527605516718714790
+      WoodTile1-1_Wood_28: 889243428000528719
+      WoodTile1-1_Wood_29: -9187928114445507773
+      WoodTile1-1_Wood_3: -8825196115050741919
+      WoodTile1-1_Wood_30: -4289672678027694712
+      WoodTile1-1_Wood_31: 6132199890140850069
+      WoodTile1-1_Wood_32: -308150939830240562
+      WoodTile1-1_Wood_33: -8441945216304108250
+      WoodTile1-1_Wood_34: -6968333988031655915
+      WoodTile1-1_Wood_35: 741651717328974227
+      WoodTile1-1_Wood_36: 5055483601145411157
+      WoodTile1-1_Wood_37: 5077939718222765109
+      WoodTile1-1_Wood_38: 3810606714611147295
+      WoodTile1-1_Wood_39: 8034355850373260058
+      WoodTile1-1_Wood_4: -299278843601969280
+      WoodTile1-1_Wood_5: -8235247553572351112
+      WoodTile1-1_Wood_6: 6925997847090279609
+      WoodTile1-1_Wood_7: -6879987645096969041
+      WoodTile1-1_Wood_8: -7286147320736258996
+      WoodTile1-1_Wood_9: -6416007263513837909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

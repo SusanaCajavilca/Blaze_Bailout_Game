@@ -1,0 +1,57 @@
+
+FlowerA0:
+   * Frame size: 8x8
+   * Frame count: 13
+   * FPS: 12
+   * (FlowerA_Burnable.ase)
+
+FlowerA1:
+   * Frame size: 8x8
+   * Frame count: 11
+   * FPS: 12
+   * (FlowerA_Burnable.ase)
+
+----------
+
+FlowerB0:
+   * Frame size: 8x8
+   * Frame count: 17
+   * FPS: 12
+   * (FlowerB_Burnable.ase)
+
+----------
+
+Grass0:
+   * Frame size: 8x8
+   * Frame count: 10
+   * FPS: 12
+   * (Grass_Burnable.ase)
+
+Grass1:
+   * Frame size: 8x8
+   * Frame count: 14
+   * FPS: 12
+   * (Grass_Burnable.ase)
+
+----------
+
+PlayerDeath:
+   * Frame size: 48x48
+   * Frame count: 31
+   * FPS: 20
+   * (PlayerDeath.ase)
+
+----------
+
+SmallFlame:
+   * Frame size: 8x8
+   * Frame count: 17
+   * FPS: 12
+   * (Flame.ase)
+
+----------
+
+Spikes:
+   * Frame size: 8x8
+   * Frame count: 1
+   * (Spikes.ase)

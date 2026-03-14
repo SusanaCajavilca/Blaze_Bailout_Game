@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 21e6541102af9b34c965f4ef0182bbd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8589905476455890164
+    second: WoodTile1-2_Flame_0
+  - first:
+      213: 8512707883775965442
+    second: WoodTile1-2_Flame_1
+  - first:
+      213: 2413333680387928192
+    second: WoodTile1-2_Flame_2
+  - first:
+      213: -1462832001507971196
+    second: WoodTile1-2_Flame_3
+  - first:
+      213: -3393118200449801314
+    second: WoodTile1-2_Flame_4
+  - first:
+      213: 3247388753168338869
+    second: WoodTile1-2_Flame_5
+  - first:
+      213: 1755270822102949909
+    second: WoodTile1-2_Flame_6
+  - first:
+      213: 4684453780844332116
+    second: WoodTile1-2_Flame_7
+  - first:
+      213: -8948170458596468628
+    second: WoodTile1-2_Flame_8
+  - first:
+      213: -4802381609865309052
+    second: WoodTile1-2_Flame_9
+  - first:
+      213: -1358683765384857740
+    second: WoodTile1-2_Flame_10
+  - first:
+      213: -1600088715476267153
+    second: WoodTile1-2_Flame_11
+  - first:
+      213: 4597653154062899664
+    second: WoodTile1-2_Flame_12
+  - first:
+      213: 3983093883159708668
+    second: WoodTile1-2_Flame_13
+  - first:
+      213: -8579604372272371995
+    second: WoodTile1-2_Flame_14
+  - first:
+      213: -4456849909316929264
+    second: WoodTile1-2_Flame_15
+  - first:
+      213: 185597573029067381
+    second: WoodTile1-2_Flame_16
+  - first:
+      213: -3477580213021225287
+    second: WoodTile1-2_Flame_17
+  - first:
+      213: -4936012821434982468
+    second: WoodTile1-2_Flame_18
+  - first:
+      213: 2143540958470648482
+    second: WoodTile1-2_Flame_19
+  - first:
+      213: 1364001628182448067
+    second: WoodTile1-2_Flame_20
+  - first:
+      213: 3572087371896545201
+    second: WoodTile1-2_Flame_21
+  - first:
+      213: -5353479273763716117
+    second: WoodTile1-2_Flame_22
+  - first:
+      213: 263818662052101389
+    second: WoodTile1-2_Flame_23
+  - first:
+      213: -2323096220411158360
+    second: WoodTile1-2_Flame_24
+  - first:
+      213: -250961732559468825
+    second: WoodTile1-2_Flame_25
+  - first:
+      213: 4983487396357191508
+    second: WoodTile1-2_Flame_26
+  - first:
+      213: 2797592105613008929
+    second: WoodTile1-2_Flame_27
+  - first:
+      213: -4859320832743454633
+    second: WoodTile1-2_Flame_28
+  - first:
+      213: -8241050121746191904
+    second: WoodTile1-2_Flame_29
+  - first:
+      213: -8011282013043011481
+    second: WoodTile1-2_Flame_30
+  - first:
+      213: 6532778973914331799
+    second: WoodTile1-2_Flame_31
+  - first:
+      213: 7841029099076959892
+    second: WoodTile1-2_Flame_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030aadfa768ac880800000000000000
+      internalID: -8589905476455890164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2093221d7b6332670800000000000000
+      internalID: 8512707883775965442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08032082232ed7120800000000000000
+      internalID: 2413333680387928192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 9
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2b088b0af2bbe0800000000000000
+      internalID: -1462832001507971196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93e64569f839e0d0800000000000000
+      internalID: -3393118200449801314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 9
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf82389dda011d20800000000000000
+      internalID: 3247388753168338869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ed0c4389fb5810800000000000000
+      internalID: 1755270822102949909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45446f5f4e5820140800000000000000
+      internalID: 4684453780844332116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6896b99066b1d380800000000000000
+      internalID: -8948170458596468628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4841c14be538a5db0800000000000000
+      internalID: -4802381609865309052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 10
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4773522605cf42de0800000000000000
+      internalID: -1358683765384857740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 10
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0de87ac75bc9e0800000000000000
+      internalID: -1600088715476267153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d99f582f252ecf30800000000000000
+      internalID: 4597653154062899664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf304cc88cac64730800000000000000
+      internalID: 3983093883159708668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e62155b74f1fe880800000000000000
+      internalID: -8579604372272371995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_15
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bee1fe961622c0800000000000000
+      internalID: -4456849909316929264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a72936200639200800000000000000
+      internalID: 185597573029067381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 10
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be41f4a8372dbfc0800000000000000
+      internalID: -3477580213021225287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf1893bd72cf7bb0800000000000000
+      internalID: -4936012821434982468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 10
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b42f05236fbd10800000000000000
+      internalID: 2143540958470648482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_20
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c78ed80148ede210800000000000000
+      internalID: 1364001628182448067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 10
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5d8cf98a929130800000000000000
+      internalID: 3572087371896545201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3c5e6e6fe94b5b0800000000000000
+      internalID: -5353479273763716117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dfbb4eca549a300800000000000000
+      internalID: 263818662052101389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_24
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0275bbb44b2cfd0800000000000000
+      internalID: -2323096220411158360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_25
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6839642a7648cf0800000000000000
+      internalID: -250961732559468825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_26
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b1822267e82540800000000000000
+      internalID: 4983487396357191508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_27
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1202081a23b03d620800000000000000
+      internalID: 2797592105613008929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_28
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 13
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758cbaac279309cb0800000000000000
+      internalID: -4859320832743454633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_29
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 13
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e025c398e1ad80800000000000000
+      internalID: -8241050121746191904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_30
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7605819647532d090800000000000000
+      internalID: -8011282013043011481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_31
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79afd485dd719aa50800000000000000
+      internalID: 6532778973914331799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTile1-2_Flame_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 14
+        width: 165
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ebbfb0c6ee0dc60800000000000000
+      internalID: 7841029099076959892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WoodTile1-2_Flame_0: -8589905476455890164
+      WoodTile1-2_Flame_1: 8512707883775965442
+      WoodTile1-2_Flame_10: -1358683765384857740
+      WoodTile1-2_Flame_11: -1600088715476267153
+      WoodTile1-2_Flame_12: 4597653154062899664
+      WoodTile1-2_Flame_13: 3983093883159708668
+      WoodTile1-2_Flame_14: -8579604372272371995
+      WoodTile1-2_Flame_15: -4456849909316929264
+      WoodTile1-2_Flame_16: 185597573029067381
+      WoodTile1-2_Flame_17: -3477580213021225287
+      WoodTile1-2_Flame_18: -4936012821434982468
+      WoodTile1-2_Flame_19: 2143540958470648482
+      WoodTile1-2_Flame_2: 2413333680387928192
+      WoodTile1-2_Flame_20: 1364001628182448067
+      WoodTile1-2_Flame_21: 3572087371896545201
+      WoodTile1-2_Flame_22: -5353479273763716117
+      WoodTile1-2_Flame_23: 263818662052101389
+      WoodTile1-2_Flame_24: -2323096220411158360
+      WoodTile1-2_Flame_25: -250961732559468825
+      WoodTile1-2_Flame_26: 4983487396357191508
+      WoodTile1-2_Flame_27: 2797592105613008929
+      WoodTile1-2_Flame_28: -4859320832743454633
+      WoodTile1-2_Flame_29: -8241050121746191904
+      WoodTile1-2_Flame_3: -1462832001507971196
+      WoodTile1-2_Flame_30: -8011282013043011481
+      WoodTile1-2_Flame_31: 6532778973914331799
+      WoodTile1-2_Flame_32: 7841029099076959892
+      WoodTile1-2_Flame_4: -3393118200449801314
+      WoodTile1-2_Flame_5: 3247388753168338869
+      WoodTile1-2_Flame_6: 1755270822102949909
+      WoodTile1-2_Flame_7: 4684453780844332116
+      WoodTile1-2_Flame_8: -8948170458596468628
+      WoodTile1-2_Flame_9: -4802381609865309052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

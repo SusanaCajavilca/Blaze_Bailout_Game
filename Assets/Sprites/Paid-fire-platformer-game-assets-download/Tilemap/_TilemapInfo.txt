@@ -1,0 +1,8 @@
+Tilemap_Ground:
+   * Tile size: 8x8
+   * Full set of 47 tiles for any possible layout (no sloping tiles)
+   * Some extra detail tiles
+
+Tilemap_Background:
+   * Tile size: 8x8
+   * 3 variants of a low-contrast background

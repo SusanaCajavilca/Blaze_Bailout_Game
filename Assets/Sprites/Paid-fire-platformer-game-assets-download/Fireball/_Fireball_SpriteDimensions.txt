@@ -1,0 +1,26 @@
+Fireball:
+   * Frame size: 16x8
+   * Frame count: 8
+   * FPS: 18
+
+Fireball_Impact:
+   * Frame size: 32x32
+   * Frame count: 8
+   * FPS: 24
+
+Fireball_Fade:
+   * Frame size: 16x8
+   * Frame count: 5
+   * FPS: 18
+
+----------
+
+FireballSmall:
+   * Frame size: 8x4
+   * Frame count: 8
+   * FPS: 18
+
+FireballSmall_Impact:
+   * Frame size: 22x22
+   * Frame count: 7
+   * FPS: 24

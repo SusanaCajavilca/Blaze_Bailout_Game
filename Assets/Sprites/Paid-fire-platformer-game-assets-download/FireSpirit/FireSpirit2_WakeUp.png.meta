@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 2eec204ce7eda3f43a80e9ff5fc4c800
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7398024266832985419
+    second: FireSpirit2_WakeUp_0
+  - first:
+      213: -6997180406345330382
+    second: FireSpirit2_WakeUp_1
+  - first:
+      213: -4534472634967985418
+    second: FireSpirit2_WakeUp_2
+  - first:
+      213: -3450687801984620458
+    second: FireSpirit2_WakeUp_3
+  - first:
+      213: -8457685780123612488
+    second: FireSpirit2_WakeUp_4
+  - first:
+      213: 7957988985676796594
+    second: FireSpirit2_WakeUp_5
+  - first:
+      213: -2238615938130931311
+    second: FireSpirit2_WakeUp_6
+  - first:
+      213: 4042172035444842874
+    second: FireSpirit2_WakeUp_7
+  - first:
+      213: -5776140377991870705
+    second: FireSpirit2_WakeUp_8
+  - first:
+      213: -3443029987983599488
+    second: FireSpirit2_WakeUp_9
+  - first:
+      213: 1051769128749879642
+    second: FireSpirit2_WakeUp_10
+  - first:
+      213: -4651992328722764969
+    second: FireSpirit2_WakeUp_11
+  - first:
+      213: 7717623730943890670
+    second: FireSpirit2_WakeUp_12
+  - first:
+      213: -4756843693182508774
+    second: FireSpirit2_WakeUp_13
+  - first:
+      213: 7406387180384202128
+    second: FireSpirit2_WakeUp_14
+  - first:
+      213: -4339246929587914026
+    second: FireSpirit2_WakeUp_15
+  - first:
+      213: 4484924179507382300
+    second: FireSpirit2_WakeUp_16
+  - first:
+      213: 5200743627965034673
+    second: FireSpirit2_WakeUp_17
+  - first:
+      213: -3953682844829417686
+    second: FireSpirit2_WakeUp_18
+  - first:
+      213: 5750238118255853088
+    second: FireSpirit2_WakeUp_19
+  - first:
+      213: -6833085493213538924
+    second: FireSpirit2_WakeUp_20
+  - first:
+      213: -5319764734031131302
+    second: FireSpirit2_WakeUp_21
+  - first:
+      213: -7056098084229068962
+    second: FireSpirit2_WakeUp_22
+  - first:
+      213: 1294780316308517013
+    second: FireSpirit2_WakeUp_23
+  - first:
+      213: -4070558569100518818
+    second: FireSpirit2_WakeUp_24
+  - first:
+      213: -5288162582077194980
+    second: FireSpirit2_WakeUp_25
+  - first:
+      213: 6430726041489740445
+    second: FireSpirit2_WakeUp_26
+  - first:
+      213: -1197234908247239247
+    second: FireSpirit2_WakeUp_27
+  - first:
+      213: -492694356264008773
+    second: FireSpirit2_WakeUp_28
+  - first:
+      213: 7248452550022508913
+    second: FireSpirit2_WakeUp_29
+  - first:
+      213: 2982163127020999282
+    second: FireSpirit2_WakeUp_30
+  - first:
+      213: 7303119084444938363
+    second: FireSpirit2_WakeUp_31
+  - first:
+      213: 7831561136313252246
+    second: FireSpirit2_WakeUp_32
+  - first:
+      213: -1015180255256389409
+    second: FireSpirit2_WakeUp_33
+  - first:
+      213: -7155304235935842286
+    second: FireSpirit2_WakeUp_34
+  - first:
+      213: 7502384451638967957
+    second: FireSpirit2_WakeUp_35
+  - first:
+      213: -4591709929783259582
+    second: FireSpirit2_WakeUp_36
+  - first:
+      213: 1425696519054549519
+    second: FireSpirit2_WakeUp_37
+  - first:
+      213: 5958977814203910135
+    second: FireSpirit2_WakeUp_38
+  - first:
+      213: -4700410068750258333
+    second: FireSpirit2_WakeUp_39
+  - first:
+      213: -6733002513131260111
+    second: FireSpirit2_WakeUp_40
+  - first:
+      213: 3937523684369092340
+    second: FireSpirit2_WakeUp_41
+  - first:
+      213: -8135522662734486299
+    second: FireSpirit2_WakeUp_42
+  - first:
+      213: -4221579310509550480
+    second: FireSpirit2_WakeUp_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b243bf2020f45990800000000000000
+      internalID: -7398024266832985419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231967a3e7505ee90800000000000000
+      internalID: -6997180406345330382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f005c9215211c0800000000000000
+      internalID: -4534472634967985418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658eee30ab1bc10d0800000000000000
+      internalID: -3450687801984620458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0cddf79340aa80800000000000000
+      internalID: -8457685780123612488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29cb9b1d4707e60800000000000000
+      internalID: 7957988985676796594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 7
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919d2b3aa6dee0e0800000000000000
+      internalID: -2238615938130931311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7125b5cc0ea81830800000000000000
+      internalID: 4042172035444842874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f070105fde607dfa0800000000000000
+      internalID: -5776140377991870705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885837c776e730d0800000000000000
+      internalID: -3443029987983599488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dbd83372a89e00800000000000000
+      internalID: 1051769128749879642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b23a4df9dc07fb0800000000000000
+      internalID: -4651992328722764969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee41901c4e18a1b60800000000000000
+      internalID: 7717623730943890670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11acc72ddb4cfdb0800000000000000
+      internalID: -4756843693182508774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09daecb56e5c8c660800000000000000
+      internalID: 7406387180384202128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da353968e5e7c3c0800000000000000
+      internalID: -4339246929587914026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 15
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18091477c6ad3e30800000000000000
+      internalID: 4484924179507382300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 13
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b07bb066c0cc2840800000000000000
+      internalID: 5200743627965034673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 9
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff26f6662b129c0800000000000000
+      internalID: -3953682844829417686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 8
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02efc8c3a13fccf40800000000000000
+      internalID: 5750238118255853088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d12972f00c21a0800000000000000
+      internalID: -6833085493213538924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8c63e8266c26b0800000000000000
+      internalID: -5319764734031131302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57463d5d24b31e90800000000000000
+      internalID: -7056098084229068962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 8
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590bcbf66dbf7f110800000000000000
+      internalID: 1294780316308517013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_24
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 8
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a57535c887287c0800000000000000
+      internalID: -4070558569100518818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db6c4462cac96b0800000000000000
+      internalID: -5288162582077194980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 8
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9299d663478e3950800000000000000
+      internalID: 6430726041489740445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 8
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d935b131926fe0800000000000000
+      internalID: -1197234908247239247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_28
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b08e7199929f0800000000000000
+      internalID: -492694356264008773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 8
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171bd57b03da79460800000000000000
+      internalID: 7248452550022508913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_30
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272da585095c26920800000000000000
+      internalID: 2982163127020999282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_31
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7077bc1d14e95560800000000000000
+      internalID: 7303119084444938363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b4be2c5b4fac60800000000000000
+      internalID: 7831561136313252246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_33
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 8
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8d37ebfea59e1f0800000000000000
+      internalID: -1015180255256389409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_34
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 8
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210423535b043bc90800000000000000
+      internalID: -7155304235935842286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eba50d8e2dd1860800000000000000
+      internalID: 7502384451638967957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 8
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e82a39528f640c0800000000000000
+      internalID: -4591709929783259582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_37
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 8
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e1cf2e6719c310800000000000000
+      internalID: 1425696519054549519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_38
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7ce0000ca82b250800000000000000
+      internalID: 5958977814203910135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa87142f9c4ceb0800000000000000
+      internalID: -4700410068750258333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_40
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137bff423e19f82a0800000000000000
+      internalID: -6733002513131260111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_41
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec185dde4e4a630800000000000000
+      internalID: 3937523684369092340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_42
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e42299fd31d81f80800000000000000
+      internalID: -8135522662734486299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit2_WakeUp_43
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07490f5ebffe965c0800000000000000
+      internalID: -4221579310509550480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireSpirit2_WakeUp_0: -7398024266832985419
+      FireSpirit2_WakeUp_1: -6997180406345330382
+      FireSpirit2_WakeUp_10: 1051769128749879642
+      FireSpirit2_WakeUp_11: -4651992328722764969
+      FireSpirit2_WakeUp_12: 7717623730943890670
+      FireSpirit2_WakeUp_13: -4756843693182508774
+      FireSpirit2_WakeUp_14: 7406387180384202128
+      FireSpirit2_WakeUp_15: -4339246929587914026
+      FireSpirit2_WakeUp_16: 4484924179507382300
+      FireSpirit2_WakeUp_17: 5200743627965034673
+      FireSpirit2_WakeUp_18: -3953682844829417686
+      FireSpirit2_WakeUp_19: 5750238118255853088
+      FireSpirit2_WakeUp_2: -4534472634967985418
+      FireSpirit2_WakeUp_20: -6833085493213538924
+      FireSpirit2_WakeUp_21: -5319764734031131302
+      FireSpirit2_WakeUp_22: -7056098084229068962
+      FireSpirit2_WakeUp_23: 1294780316308517013
+      FireSpirit2_WakeUp_24: -4070558569100518818
+      FireSpirit2_WakeUp_25: -5288162582077194980
+      FireSpirit2_WakeUp_26: 6430726041489740445
+      FireSpirit2_WakeUp_27: -1197234908247239247
+      FireSpirit2_WakeUp_28: -492694356264008773
+      FireSpirit2_WakeUp_29: 7248452550022508913
+      FireSpirit2_WakeUp_3: -3450687801984620458
+      FireSpirit2_WakeUp_30: 2982163127020999282
+      FireSpirit2_WakeUp_31: 7303119084444938363
+      FireSpirit2_WakeUp_32: 7831561136313252246
+      FireSpirit2_WakeUp_33: -1015180255256389409
+      FireSpirit2_WakeUp_34: -7155304235935842286
+      FireSpirit2_WakeUp_35: 7502384451638967957
+      FireSpirit2_WakeUp_36: -4591709929783259582
+      FireSpirit2_WakeUp_37: 1425696519054549519
+      FireSpirit2_WakeUp_38: 5958977814203910135
+      FireSpirit2_WakeUp_39: -4700410068750258333
+      FireSpirit2_WakeUp_4: -8457685780123612488
+      FireSpirit2_WakeUp_40: -6733002513131260111
+      FireSpirit2_WakeUp_41: 3937523684369092340
+      FireSpirit2_WakeUp_42: -8135522662734486299
+      FireSpirit2_WakeUp_43: -4221579310509550480
+      FireSpirit2_WakeUp_5: 7957988985676796594
+      FireSpirit2_WakeUp_6: -2238615938130931311
+      FireSpirit2_WakeUp_7: 4042172035444842874
+      FireSpirit2_WakeUp_8: -5776140377991870705
+      FireSpirit2_WakeUp_9: -3443029987983599488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

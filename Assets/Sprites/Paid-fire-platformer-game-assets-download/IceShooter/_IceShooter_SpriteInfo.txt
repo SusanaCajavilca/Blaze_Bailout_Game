@@ -1,0 +1,40 @@
+IceShooterMelt:
+   * Frame size: 8x8
+   * Frame count: 19
+   * FPS: NA
+   * (IceShooterMelt.ase)
+
+----------
+
+IceSpike0:
+   * Frame size: 16x16
+   * Frame count: 10
+   * FPS: 18
+   * (IceSpike.ase)
+
+IceSpike1_Appear:
+   * Frame size: 16x16
+   * Frame count: 8
+   * FPS: 18
+   * (IceSpike.ase)
+
+IceSpike2_Launch:
+   * Frame size: 16x16
+   * Frame count: 4
+   * FPS: 18
+   * (IceSpike.ase)
+
+IceSpike3_Fade:
+   * Frame size: 16x16
+   * Frame count: 8
+   * FPS: 20
+   * (IceSpike.ase)
+
+IceSpike4_Destroy:
+   * Frame size: 64x64
+   * Frame count: 9
+   * FPS: 22
+   * (IceSpikeDestroy.ase)
+
+
+

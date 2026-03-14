@@ -1,0 +1,41 @@
+FireGuySmall0_Idle:
+   * Frame size: 8x10
+   * Frame count: 11
+   * FPS: 18
+   * (FireGuySmall0_Idle.ase)
+
+----------
+
+FireGuySmall1_Run:
+   * Frame size: 8x10
+   * Frame count: 10
+   * FPS: 18
+   * (FireGuySmall1_Run.ase)
+
+----------
+
+FireGuySmall2-0_Jump:
+   * Frame size: 8x10
+   * Frame count: 6
+   * FPS: 30
+   * (FireGuySmall2_Jump_Air.ase)
+
+FireGuySmall2-1_AirDown:
+   * Frame size: 8x10
+   * Frame count: 3
+   * FPS: 12
+   * (FireGuySmall2_Jump_Air.ase)
+
+FireGuySmall2-2_AirUp:
+   * Frame size: 8x10
+   * Frame count: 4
+   * FPS: 12
+   * (FireGuySmall2_Jump_Air.ase)
+
+----------
+
+JumpEffectSmall:
+   * Frame size: 16x8
+   * Frame count: 4
+   * FPS: 18
+   * (JumpEffectSmall.ase)

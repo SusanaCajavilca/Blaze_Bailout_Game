@@ -1,0 +1,21 @@
+FireSpirit0_Idle:
+   * Frame size: 32x32
+   * Frame count: 11
+   * FPS: 18
+   * (FireSpirit0_Idle.ase)
+
+FireSpirit1_IdleLean:
+   * Frame size: 32x32
+   * Frame count: 32
+   * FPS: 18
+   * (FireSpirit1_IdleLean.ase)
+
+FireSpirit1_WakeUp:
+   * Frame size: 32x32
+   * Frame count: 40
+   * FPS: 18
+   * (FireSpirit2_WakeUp.ase)
+
+
+
+

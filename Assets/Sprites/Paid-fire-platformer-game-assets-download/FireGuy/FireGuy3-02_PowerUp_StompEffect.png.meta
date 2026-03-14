@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 1a9c3a6ba816cc345b20f88344090453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2617107893206857793
+    second: FireGuy3-02_PowerUp_StompEffect_0
+  - first:
+      213: 8887865285572908752
+    second: FireGuy3-02_PowerUp_StompEffect_1
+  - first:
+      213: -2866687920325479298
+    second: FireGuy3-02_PowerUp_StompEffect_2
+  - first:
+      213: 7720156280645638688
+    second: FireGuy3-02_PowerUp_StompEffect_3
+  - first:
+      213: -357168923531264071
+    second: FireGuy3-02_PowerUp_StompEffect_4
+  - first:
+      213: -7642101986007609330
+    second: FireGuy3-02_PowerUp_StompEffect_5
+  - first:
+      213: -4980096326484180303
+    second: FireGuy3-02_PowerUp_StompEffect_6
+  - first:
+      213: 3556137142066032464
+    second: FireGuy3-02_PowerUp_StompEffect_7
+  - first:
+      213: 3950957924230666978
+    second: FireGuy3-02_PowerUp_StompEffect_8
+  - first:
+      213: 2699919174767691279
+    second: FireGuy3-02_PowerUp_StompEffect_9
+  - first:
+      213: 1547254294749111490
+    second: FireGuy3-02_PowerUp_StompEffect_10
+  - first:
+      213: -4081725662850627122
+    second: FireGuy3-02_PowerUp_StompEffect_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c886bc3a2eabd0800000000000000
+      internalID: -2617107893206857793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65916236a085b70800000000000000
+      internalID: 8887865285572908752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74b81b568a7738d0800000000000000
+      internalID: -2866687920325479298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a526eeb31832b60800000000000000
+      internalID: 7720156280645638688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf3c14a1c41b0bf0800000000000000
+      internalID: -357168923531264071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0095babbbcc1f590800000000000000
+      internalID: -7642101986007609330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2cea8d6c423eab0800000000000000
+      internalID: -4980096326484180303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f2b65b3efe95130800000000000000
+      internalID: 3556137142066032464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 137
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea984c8c4f94d630800000000000000
+      internalID: 3950957924230666978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f064b464f2a087520800000000000000
+      internalID: 2699919174767691279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e7b75593f87510800000000000000
+      internalID: 1547254294749111490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireGuy3-02_PowerUp_StompEffect_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94133b22cca57c0800000000000000
+      internalID: -4081725662850627122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireGuy3-02_PowerUp_StompEffect_0: -2617107893206857793
+      FireGuy3-02_PowerUp_StompEffect_1: 8887865285572908752
+      FireGuy3-02_PowerUp_StompEffect_10: 1547254294749111490
+      FireGuy3-02_PowerUp_StompEffect_11: -4081725662850627122
+      FireGuy3-02_PowerUp_StompEffect_2: -2866687920325479298
+      FireGuy3-02_PowerUp_StompEffect_3: 7720156280645638688
+      FireGuy3-02_PowerUp_StompEffect_4: -357168923531264071
+      FireGuy3-02_PowerUp_StompEffect_5: -7642101986007609330
+      FireGuy3-02_PowerUp_StompEffect_6: -4980096326484180303
+      FireGuy3-02_PowerUp_StompEffect_7: 3556137142066032464
+      FireGuy3-02_PowerUp_StompEffect_8: 3950957924230666978
+      FireGuy3-02_PowerUp_StompEffect_9: 2699919174767691279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
