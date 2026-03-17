@@ -17,50 +17,50 @@ public class Spawner : MonoBehaviour
     {
         // Wave 1 - 1 survivor
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(1.4f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 1st water
-        yield return new WaitForSeconds(17f);
+        yield return new WaitForSeconds(18f);
 
         // Wave 2 - 2 survivors + 1 water
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(1.4f);
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(1.4f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 2nd water
-        yield return new WaitForSeconds(15f);
+        yield return new WaitForSeconds(16f);
 
 
         // Wave 3 - 3 survivors + 1 water
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(1.2f);
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(1f);
         SpawnSurvivor(survivorPrefab);
         yield return new WaitForSeconds(1f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 3rd water
-        yield return new WaitForSeconds(12f);
+        yield return new WaitForSeconds(16f);
 
         // Wave 4 - 2 survivors + 1 water
-        SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(0.6f);
-        SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1f);
-        if (waterPrefab != null)
-            SpawnSurvivor(waterPrefab); // 2nd water
-        yield return new WaitForSeconds(15f);
+        // SpawnSurvivor(survivorPrefab);
+        // yield return new WaitForSeconds(1.2f);
+        // SpawnSurvivor(survivorPrefab);
+        // yield return new WaitForSeconds(1.2f);
+        // if (waterPrefab != null)
+        //     SpawnSurvivor(waterPrefab); // 2nd water
+        // yield return new WaitForSeconds(16f);
 
-        // Wave 5 - 2 survivors
-        SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(0.6f);
-        SpawnSurvivor(survivorPrefab);
+        // // Wave 5 - 2 survivors
+        // SpawnSurvivor(survivorPrefab);
+        // yield return new WaitForSeconds(1.2f);
+        // SpawnSurvivor(survivorPrefab);
 
         // Optional: spawn a water supply randomly
-        yield return new WaitForSeconds(14f);
-        if (waterPrefab != null)
-            SpawnSurvivor(waterPrefab);
+        // yield return new WaitForSeconds(14f);
+        // if (waterPrefab != null)
+        //     SpawnSurvivor(waterPrefab);
     }
 
     void SpawnSurvivor(GameObject prefab)
@@ -77,12 +77,18 @@ public class Spawner : MonoBehaviour
         if (rb != null)
         {
             // initial jump toward trampoline
-            float initialX = Random.Range(2f, 4f);
-            float initialY = Random.Range(5f, 7f);
+            float initialX = Random.Range(1.5f, 3f);
+            float initialY = Random.Range(4.5f, 6f);
             //float initialX = Random.Range(1.5f, 3f); // slower horizontal
             //float initialY = Random.Range(4.5f, 6f); // lower vertica
-            rb.linearVelocity = new Vector2(initialX, initialY);
+            StartCoroutine(LaunchAfterDelay(rb, initialX, initialY));
         }
+    }
+
+    IEnumerator LaunchAfterDelay(Rigidbody2D rb, float x, float y)
+    {
+        yield return new WaitForSeconds(0.1f);
+        rb.linearVelocity = new Vector2(x, y);
     }
 
 }

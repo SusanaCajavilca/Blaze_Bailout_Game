@@ -7,7 +7,8 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     [Header("Counters")]
-    public int totalSurvivors = 10;
+    public int winRescuedTarget = 5;
+    public int totalSurvivors = 6;
     public int rescuedCount = 0;
     public int lostCount = 0;
     public int maxLostAllowed = 2; // Game over if lostCount >= 2
@@ -46,13 +47,13 @@ public class UIManager : MonoBehaviour
     {
         if (rescuedText != null)
         {
-            rescuedText.text = "Rescued: " + rescuedCount + " / 10";
+            rescuedText.text = "Rescued: " + rescuedCount + " / " + winRescuedTarget;
         }
     }
 
     void CheckGameEnd()
     {
-        if (rescuedCount + lostCount >= totalSurvivors)
+        if (rescuedCount >= winRescuedTarget)
         {
             SceneManager.LoadScene("WinScene");
         }

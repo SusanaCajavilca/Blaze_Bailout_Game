@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
- 
+
 public class PlayerControllerInputSystem : MonoBehaviour
 {
     [Header("Input")]
     public InputActionReference moveAction; // assign Move action from .inputactions
 
     [Header("Movement")]
-    public float moveSpeed = 4f;
+    public float moveSpeed = 6f;
 
     [Header("References")]
     public Animator animator; // assign or leave empty to auto-find
