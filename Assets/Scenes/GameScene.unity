@@ -2396,8 +2396,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrampolineController
   moveSpeed: 8
-  xMin: -12
-  xMax: 13
+  xMin: -14
+  xMax: 14
 --- !u!114 &176850008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3284,11 +3284,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc29a704ca4f60444ba3e88aa484d376, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIManager
-  winRescuedTarget: 5
-  totalSurvivors: 6
+  winRescuedTarget: 10
+  totalSurvivors: 14
   rescuedCount: 0
   lostCount: 0
-  maxLostAllowed: 2
+  maxLostAllowed: 3
   rescuedText: {fileID: 1560164300}
 --- !u!114 &243730420
 MonoBehaviour:

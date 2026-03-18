@@ -5,8 +5,8 @@ public class TrampolineController : MonoBehaviour
     public float moveSpeed = 8f;
 
     // Set limits to the trampoline
-    public float xMin = -12f; // left limit
-    public float xMax = 13f;  // right limit
+    public float xMin = -14f; // left limit
+    public float xMax = 14f;  // right limit
 
     void Update()
     {

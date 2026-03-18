@@ -15,47 +15,59 @@ public class Spawner : MonoBehaviour
 
     IEnumerator SpawnWaves()
     {
+
+
         // Wave 1 - 1 survivor
         SpawnSurvivor(survivorPrefab);
         yield return new WaitForSeconds(1.4f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 1st water
-        yield return new WaitForSeconds(18f);
+        yield return new WaitForSeconds(17.5f);
 
         // Wave 2 - 2 survivors + 1 water
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1.4f);
+        yield return new WaitForSeconds(0.6f);
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1.4f);
+        yield return new WaitForSeconds(0.6f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 2nd water
-        yield return new WaitForSeconds(16f);
+        yield return new WaitForSeconds(17.5f);
 
 
         // Wave 3 - 3 survivors + 1 water
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1.2f);
+        yield return new WaitForSeconds(0.4f);
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.4f);
         SpawnSurvivor(survivorPrefab);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
         if (waterPrefab != null)
             SpawnSurvivor(waterPrefab); // 3rd water
-        yield return new WaitForSeconds(16f);
+        yield return new WaitForSeconds(17.5f);
 
-        // Wave 4 - 2 survivors + 1 water
-        // SpawnSurvivor(survivorPrefab);
-        // yield return new WaitForSeconds(1.2f);
-        // SpawnSurvivor(survivorPrefab);
-        // yield return new WaitForSeconds(1.2f);
-        // if (waterPrefab != null)
-        //     SpawnSurvivor(waterPrefab); // 2nd water
-        // yield return new WaitForSeconds(16f);
+        // Wave 4 - 4 survivors + 1 water
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.3f);
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.2f);
+        if (waterPrefab != null)
+            SpawnSurvivor(waterPrefab); // 4th water
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(1.0f);
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.2f);
+        yield return new WaitForSeconds(17.5f);
 
-        // // Wave 5 - 2 survivors
-        // SpawnSurvivor(survivorPrefab);
-        // yield return new WaitForSeconds(1.2f);
-        // SpawnSurvivor(survivorPrefab);
+        // Wave 5 - 4 survivors
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.1f);
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.5f);
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(0.1f);
+        SpawnSurvivor(survivorPrefab);
+        yield return new WaitForSeconds(18f);
+
 
         // Optional: spawn a water supply randomly
         // yield return new WaitForSeconds(14f);

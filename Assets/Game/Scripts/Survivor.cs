@@ -27,7 +27,7 @@ public class Survivor : MonoBehaviour
                 // Add time to timer
                 Timer timer = FindFirstObjectByType<Timer>();
                 if (timer != null)
-                    timer.AddTime(15f);
+                    timer.AddTime(20f);
 
                 // Spawn water beam effect
                 if (waterBeamPrefab != null)

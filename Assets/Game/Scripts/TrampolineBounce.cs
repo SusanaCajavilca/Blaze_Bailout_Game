@@ -3,8 +3,8 @@ using UnityEngine;
 public class TrampolineBounce : MonoBehaviour
 {
     public float bounceForce = 11f;       // upward velocity
-    
-    public float horizontalMin = 1.5f;    // min horizontal push toward right (toward safe zone)
+
+    public float horizontalMin = 1.8f;    // min horizontal push toward right (toward safe zone)
     public float horizontalMax = 3f;      // max horizontal push toward right (toward safe zone)
 
     public AudioSource jumpSound; // reference to the AudioSource
@@ -21,7 +21,7 @@ public class TrampolineBounce : MonoBehaviour
                 rb.linearVelocity = new Vector2(horizontalFactor, bounceForce);
 
                 // Play jump sound
-                if (jumpSound != null)
+                if (jumpSound != null && collision.gameObject.CompareTag("Survivor"))
                     jumpSound.Play();
             }
         }

@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
-    public float timeRemaining = 45f;
+    public float timeRemaining = 60f;
     public TextMeshProUGUI timerText;
 
     private bool timerRunning = true;
@@ -30,7 +30,7 @@ public class Timer : MonoBehaviour
 
     void UpdateTimerUI()
     {
-        timerText.text =  Mathf.Ceil(timeRemaining).ToString();
+        timerText.text = Mathf.Ceil(timeRemaining).ToString();
     }
 
     public void AddTime(float extraTime)

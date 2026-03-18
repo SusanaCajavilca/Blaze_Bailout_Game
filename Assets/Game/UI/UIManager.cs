@@ -7,11 +7,11 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     [Header("Counters")]
-    public int winRescuedTarget = 5;
-    public int totalSurvivors = 6;
+    public int winRescuedTarget = 10;
+    public int totalSurvivors = 14;
     public int rescuedCount = 0;
     public int lostCount = 0;
-    public int maxLostAllowed = 2; // Game over if lostCount >= 2
+    public int maxLostAllowed = 3; // Game over if lostCount >= 3
 
     [Header("UI Elements")]
     public TextMeshProUGUI rescuedText; // top-right counter
@@ -33,6 +33,7 @@ public class UIManager : MonoBehaviour
     public void IncrementLost()
     {
         lostCount++;
+        UpdateRescuedUI();
 
         if (lostCount > maxLostAllowed)
         {
@@ -47,7 +48,8 @@ public class UIManager : MonoBehaviour
     {
         if (rescuedText != null)
         {
-            rescuedText.text = "Rescued: " + rescuedCount + " / " + winRescuedTarget;
+            rescuedText.text = "Rescued: " + rescuedCount + " / " + winRescuedTarget
+                                + "\nLost: " + lostCount + " / " + maxLostAllowed;
         }
     }
 
