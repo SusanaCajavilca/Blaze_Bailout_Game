@@ -63,5 +63,8 @@ TagManager:
   - name: UI(Canvas)
     uniqueID: 662600277
     locked: 0
+  - name: Canvas Element
+    uniqueID: 2612317679
+    locked: 0
   m_RenderingLayers:
   - Default

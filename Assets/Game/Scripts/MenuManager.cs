@@ -9,6 +9,11 @@ public class MenuManager : MonoBehaviour
         SceneManager.LoadScene("GameScene"); // we have only 4 scenes, so no need to complicate this line
     }
 
+    public void ShowTutorial()
+    {
+        
+    }
+
     public void QuitGame()
     {
         Application.Quit();
